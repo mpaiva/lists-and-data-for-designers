@@ -129,4 +129,4 @@ Homemade Strawberry Lemonade
 `address-en_CA.txt` is a list in english, and it's specific to Canada, so we use the `-en_CA` suffix.
 
 ## Credits
-Shamelessly inspired on [List for Designers](https://github.com/listsfordesign/Lists "List for Designers"), which only handles single entity TXT files.
+Shamelessly inspired on [Lists for Designers](https://github.com/listsfordesign/Lists "Lists for Designers"), which only handles single entity TXT files.
