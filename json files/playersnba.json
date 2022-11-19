@@ -1,0 +1,5472 @@
+[
+    {
+     "id": 1,
+     "firstName": " Aron",
+     "lastName": "Baynes",
+     "position": "C",
+     "height": "6 ft 10 in",
+     "weight": "260 lb ",
+     "team-code": "BOS",
+     "origin": "Washington State"
+    },
+    {
+     "id": 2,
+     "firstName": " Jabari",
+     "lastName": "Bird",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "198 lb ",
+     "team-code": "BOS",
+     "origin": "California"
+    },
+    {
+     "id": 3,
+     "firstName": " Jaylen",
+     "lastName": "Brown",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "225 lb ",
+     "team-code": "BOS",
+     "origin": "California"
+    },
+    {
+     "id": 4,
+     "firstName": " P. J. ",
+     "lastName": "Dozier",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "205 lb ",
+     "team-code": "BOS",
+     "origin": "South Carolina"
+    },
+    {
+     "id": 5,
+     "firstName": " Gordon",
+     "lastName": "Hayward",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "226 lb ",
+     "team-code": "BOS",
+     "origin": "Butler"
+    },
+    {
+     "id": 6,
+     "firstName": " Al",
+     "lastName": "Horford",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "245 lb ",
+     "team-code": "BOS",
+     "origin": "Florida"
+    },
+    {
+     "id": 7,
+     "firstName": " Kyrie",
+     "lastName": "Irving",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "193 lb ",
+     "team-code": "BOS",
+     "origin": "Duke"
+    },
+    {
+     "id": 8,
+     "firstName": " Walt ",
+     "lastName": "Lemon",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "180 lb ",
+     "team-code": "BOS",
+     "origin": "Bradley"
+    },
+    {
+     "id": 9,
+     "firstName": " Marcus",
+     "lastName": "Morris",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "235 lb ",
+     "team-code": "BOS",
+     "origin": "Kansas"
+    },
+    {
+     "id": 10,
+     "firstName": " Semi",
+     "lastName": "Ojeleye",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "235 lb ",
+     "team-code": "BOS",
+     "origin": "SMU"
+    },
+    {
+     "id": 11,
+     "firstName": " Terry",
+     "lastName": "Rozier",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "190 lb ",
+     "team-code": "BOS",
+     "origin": "Louisville"
+    },
+    {
+     "id": 12,
+     "firstName": " Marcus",
+     "lastName": "Smart",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "220 lb ",
+     "team-code": "BOS",
+     "origin": "Oklahoma State"
+    },
+    {
+     "id": 13,
+     "firstName": " Jayson",
+     "lastName": "Tatum",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "205 lb ",
+     "team-code": "BOS",
+     "origin": "Duke"
+    },
+    {
+     "id": 14,
+     "firstName": " Daniel",
+     "lastName": "Theis",
+     "position": "F\/C",
+     "height": "6 ft 9 in ",
+     "weight": "243 lb ",
+     "team-code": "BOS",
+     "origin": "Germany"
+    },
+    {
+     "id": 15,
+     "firstName": " Brad",
+     "lastName": "Wanamaker",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "210 lb ",
+     "team-code": "BOS",
+     "origin": "Pittsburgh"
+    },
+    {
+     "id": 16,
+     "firstName": " Robert",
+     "lastName": "Williams",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "241 lb ",
+     "team-code": "BOS",
+     "origin": "Texas A&amp;M"
+    },
+    {
+     "id": 17,
+     "firstName": " Guerschon",
+     "lastName": "Yabusele",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "260 lb ",
+     "team-code": "BOS",
+     "origin": "France"
+    },
+    {
+     "id": 18,
+     "firstName": " Jarrett",
+     "lastName": "Allen",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "234 lb ",
+     "team-code": "BRK",
+     "origin": "Texas"
+    },
+    {
+     "id": 19,
+     "firstName": " DeMarre",
+     "lastName": "Carroll",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "215 lb ",
+     "team-code": "BRK",
+     "origin": "Missouri"
+    },
+    {
+     "id": 20,
+     "firstName": " Allen",
+     "lastName": "Crabbe",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "215 lb ",
+     "team-code": "BRK",
+     "origin": "California"
+    },
+    {
+     "id": 21,
+     "firstName": " Mitch",
+     "lastName": "Creek",
+     "position": "G\/F",
+     "height": "6 ft 5 in ",
+     "weight": "216 lb ",
+     "team-code": "BRK",
+     "origin": "Australia"
+    },
+    {
+     "id": 22,
+     "firstName": " Ed",
+     "lastName": "Davis",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "245 lb ",
+     "team-code": "BRK",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 23,
+     "firstName": " Spencer",
+     "lastName": "Dinwiddie",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "200 lb ",
+     "team-code": "BRK",
+     "origin": "Colorado"
+    },
+    {
+     "id": 24,
+     "firstName": " Jared",
+     "lastName": "Dudley",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "240 lb ",
+     "team-code": "BRK",
+     "origin": "Boston College"
+    },
+    {
+     "id": 25,
+     "firstName": " Kenneth",
+     "lastName": "Faried",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "228 lb ",
+     "team-code": "BRK",
+     "origin": "Morehead State"
+    },
+    {
+     "id": 26,
+     "firstName": " Treveon",
+     "lastName": "Graham",
+     "position": "G\/F",
+     "height": "6 ft 5 in ",
+     "weight": "219 lb ",
+     "team-code": "BRK",
+     "origin": "Virginia Commonwealth"
+    },
+    {
+     "id": 27,
+     "firstName": " Joe",
+     "lastName": "Harris",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "219 lb ",
+     "team-code": "BRK",
+     "origin": "Virginia"
+    },
+    {
+     "id": 28,
+     "firstName": " Rondae",
+     "lastName": "Hollis-Jefferson",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "214 lb ",
+     "team-code": "BRK",
+     "origin": "Arizona"
+    },
+    {
+     "id": 29,
+     "firstName": " Rodions",
+     "lastName": "Kurucs",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "220 lb ",
+     "team-code": "BRK",
+     "origin": "Latvia"
+    },
+    {
+     "id": 30,
+     "firstName": " Caris",
+     "lastName": "LeVert",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "203 lb ",
+     "team-code": "BRK",
+     "origin": "Michigan"
+    },
+    {
+     "id": 31,
+     "firstName": " Jordan",
+     "lastName": "McLaughlin",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "185 lb ",
+     "team-code": "BRK",
+     "origin": "Southern California"
+    },
+    {
+     "id": 32,
+     "firstName": " Dzanan",
+     "lastName": "Musa",
+     "position": "G",
+     "height": "6 ft 9 in ",
+     "weight": "195 lb ",
+     "team-code": "BRK",
+     "origin": "Bosnia and Herzegovina"
+    },
+    {
+     "id": 33,
+     "firstName": " Shabazz",
+     "lastName": "Napier",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "175 lb ",
+     "team-code": "BRK",
+     "origin": "Connecticut"
+    },
+    {
+     "id": 34,
+     "firstName": " Theo ",
+     "lastName": "Pinson",
+     "position": "G",
+     "height": "6 ft 7 in ",
+     "weight": "211 lb ",
+     "team-code": "BRK",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 35,
+     "firstName": " D'Angelo",
+     "lastName": "Russell",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "195 lb ",
+     "team-code": "BRK",
+     "origin": "Ohio State"
+    },
+    {
+     "id": 36,
+     "firstName": " Alan ",
+     "lastName": "Williams",
+     "position": "F\/C",
+     "height": "6 ft 8 in ",
+     "weight": "265 lb ",
+     "team-code": "BRK",
+     "origin": "UC Santa Barbara"
+    },
+    {
+     "id": 37,
+     "firstName": " Kadeem",
+     "lastName": "Allen",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "200 lb ",
+     "team-code": "NYK",
+     "origin": "Arizona"
+    },
+    {
+     "id": 38,
+     "firstName": " Ron ",
+     "lastName": "Baker",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "220 lb ",
+     "team-code": "NYK",
+     "origin": "Wichita State"
+    },
+    {
+     "id": 39,
+     "firstName": " Trey",
+     "lastName": "Burke",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "191 lb ",
+     "team-code": "NYK",
+     "origin": "Michigan"
+    },
+    {
+     "id": 40,
+     "firstName": " Damyean",
+     "lastName": "Dotson",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "210 lb ",
+     "team-code": "NYK",
+     "origin": "Houston"
+    },
+    {
+     "id": 41,
+     "firstName": " Tim",
+     "lastName": "Hardaway Jr.",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "205 lb ",
+     "team-code": "NYK",
+     "origin": "Michigan"
+    },
+    {
+     "id": 42,
+     "firstName": " Mario",
+     "lastName": "Hezonja",
+     "position": "G\/F",
+     "height": "6 ft 8 in ",
+     "weight": "218 lb ",
+     "team-code": "NYK",
+     "origin": "Croatia"
+    },
+    {
+     "id": 43,
+     "firstName": " Isaiah ",
+     "lastName": "Hicks",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "242 lb ",
+     "team-code": "NYK",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 44,
+     "firstName": " Enes",
+     "lastName": "Kanter",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "245 lb ",
+     "team-code": "NYK",
+     "origin": "Turkey"
+    },
+    {
+     "id": 45,
+     "firstName": " Kevin",
+     "lastName": "Knox",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "212 lb ",
+     "team-code": "NYK",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 46,
+     "firstName": " Luke",
+     "lastName": "Kornet",
+     "position": "F\/C",
+     "height": "7 ft 1 in ",
+     "weight": "250 lb ",
+     "team-code": "NYK",
+     "origin": "Vanderbilt"
+    },
+    {
+     "id": 47,
+     "firstName": " Courtney",
+     "lastName": "Lee",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "200 lb ",
+     "team-code": "NYK",
+     "origin": "Western Kentucky"
+    },
+    {
+     "id": 48,
+     "firstName": " Emmanuel",
+     "lastName": "Mudiay",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "200 lb ",
+     "team-code": "NYK",
+     "origin": "Prime Prep Academy (TX)"
+    },
+    {
+     "id": 49,
+     "firstName": " Joakim",
+     "lastName": "Noah",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "230 lb ",
+     "team-code": "NYK",
+     "origin": "Florida"
+    },
+    {
+     "id": 50,
+     "firstName": " Frank",
+     "lastName": "Ntilikina",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "190 lb ",
+     "team-code": "NYK",
+     "origin": "France"
+    },
+    {
+     "id": 51,
+     "firstName": " Kristaps ",
+     "lastName": "Porzingis",
+     "position": "F\/C",
+     "height": "7 ft 3 in ",
+     "weight": "240 lb ",
+     "team-code": "NYK",
+     "origin": "Latvia"
+    },
+    {
+     "id": 52,
+     "firstName": " Mitchell",
+     "lastName": "Robinson",
+     "position": "C",
+     "height": "7 ft 1 in ",
+     "weight": "225 lb ",
+     "team-code": "NYK",
+     "origin": "Chalmette HS (LS)"
+    },
+    {
+     "id": 53,
+     "firstName": " Lance",
+     "lastName": "Thomas",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "235 lb ",
+     "team-code": "NYK",
+     "origin": "Duke"
+    },
+    {
+     "id": 54,
+     "firstName": " Allonzo ",
+     "lastName": "Trier",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "198 lb ",
+     "team-code": "NYK",
+     "origin": "Arizona"
+    },
+    {
+     "id": 55,
+     "firstName": " Noah",
+     "lastName": "Vonleh",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "245 lb ",
+     "team-code": "NYK",
+     "origin": "Indiana"
+    },
+    {
+     "id": 56,
+     "firstName": " Jerryd",
+     "lastName": "Bayless",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "200 lb ",
+     "team-code": "PHI",
+     "origin": "Arizona"
+    },
+    {
+     "id": 57,
+     "firstName": " Jonah",
+     "lastName": "Bolden",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "220 lb ",
+     "team-code": "PHI",
+     "origin": "UCLA"
+    },
+    {
+     "id": 58,
+     "firstName": " Anthony",
+     "lastName": "Brown",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "224 lb ",
+     "team-code": "PHI",
+     "origin": "Stanford"
+    },
+    {
+     "id": 59,
+     "firstName": " Wilson",
+     "lastName": "Chandler",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "225 lb ",
+     "team-code": "PHI",
+     "origin": "DePaul"
+    },
+    {
+     "id": 60,
+     "firstName": " Robert",
+     "lastName": "Covington",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "225 lb ",
+     "team-code": "PHI",
+     "origin": "Tennessee State"
+    },
+    {
+     "id": 61,
+     "firstName": " Joel",
+     "lastName": "Embiid",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "250 lb ",
+     "team-code": "PHI",
+     "origin": "Kansas"
+    },
+    {
+     "id": 62,
+     "firstName": " Markelle",
+     "lastName": "Fultz",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "200 lb ",
+     "team-code": "PHI",
+     "origin": "Washington"
+    },
+    {
+     "id": 63,
+     "firstName": " Demetrius ",
+     "lastName": "Jackson",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "201 lb ",
+     "team-code": "PHI",
+     "origin": "Notre Dame"
+    },
+    {
+     "id": 64,
+     "firstName": " Amir",
+     "lastName": "Johnson",
+     "position": "F\/C",
+     "height": "6 ft 9 in ",
+     "weight": "240 lb ",
+     "team-code": "PHI",
+     "origin": "Westchester HS (CA)"
+    },
+    {
+     "id": 65,
+     "firstName": " Furkan",
+     "lastName": "Korkmaz",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "190 lb ",
+     "team-code": "PHI",
+     "origin": "Turkey"
+    },
+    {
+     "id": 66,
+     "firstName": " T. J.",
+     "lastName": "McConnell",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "190 lb ",
+     "team-code": "PHI",
+     "origin": "Arizona"
+    },
+    {
+     "id": 67,
+     "firstName": " Shake ",
+     "lastName": "Milton",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "207 lb ",
+     "team-code": "PHI",
+     "origin": "SMU"
+    },
+    {
+     "id": 68,
+     "firstName": " Mike",
+     "lastName": "Muscala",
+     "position": "F\/C",
+     "height": "6 ft 11 in",
+     "weight": "240 lb ",
+     "team-code": "PHI",
+     "origin": "Bucknell"
+    },
+    {
+     "id": 69,
+     "firstName": " Norvel",
+     "lastName": "Pelle",
+     "position": "F",
+     "height": "6 ft 11 in",
+     "weight": "216 lb ",
+     "team-code": "PHI",
+     "origin": "Price HS (CA)"
+    },
+    {
+     "id": 70,
+     "firstName": " JJ",
+     "lastName": "Redick",
+     "position": "G\/F",
+     "height": "6 ft 4 in ",
+     "weight": "200 lb ",
+     "team-code": "PHI",
+     "origin": "Duke"
+    },
+    {
+     "id": 71,
+     "firstName": " Dario",
+     "lastName": "Saric",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "223 lb ",
+     "team-code": "PHI",
+     "origin": "Croatia"
+    },
+    {
+     "id": 72,
+     "firstName": " Landry",
+     "lastName": "Shamet",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "188 lb ",
+     "team-code": "PHI",
+     "origin": "Wichita State"
+    },
+    {
+     "id": 73,
+     "firstName": " Ben",
+     "lastName": "Simmons",
+     "position": "G\/F",
+     "height": "6 ft 10 in",
+     "weight": "230 lb ",
+     "team-code": "PHI",
+     "origin": "LSU"
+    },
+    {
+     "id": 74,
+     "firstName": " Zhaire ",
+     "lastName": "Smith",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "199 lb ",
+     "team-code": "PHI",
+     "origin": "Texas Tech"
+    },
+    {
+     "id": 75,
+     "firstName": " Deng",
+     "lastName": "Adel",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "200 lb ",
+     "team-code": "TOR",
+     "origin": "Louisville"
+    },
+    {
+     "id": 76,
+     "firstName": " OG",
+     "lastName": "Anunoby",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "235 lb ",
+     "team-code": "TOR",
+     "origin": "Indiana"
+    },
+    {
+     "id": 77,
+     "firstName": " Chris",
+     "lastName": "Boucher",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "200 lb ",
+     "team-code": "TOR",
+     "origin": "Oregon"
+    },
+    {
+     "id": 78,
+     "firstName": " Lorenzo",
+     "lastName": "Brown",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "189 lb ",
+     "team-code": "TOR",
+     "origin": "North Carolina State"
+    },
+    {
+     "id": 79,
+     "firstName": " Kyle",
+     "lastName": "Collinsworth",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "210 lb ",
+     "team-code": "TOR",
+     "origin": "BYU"
+    },
+    {
+     "id": 80,
+     "firstName": " Kay",
+     "lastName": "Felder",
+     "position": "G",
+     "height": "5 ft 9 in ",
+     "weight": "176 lb ",
+     "team-code": "TOR",
+     "origin": "Oakland"
+    },
+    {
+     "id": 81,
+     "firstName": " Danny",
+     "lastName": "Green",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "215 lb ",
+     "team-code": "TOR",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 82,
+     "firstName": " Serge",
+     "lastName": "Ibaka",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "235 lb ",
+     "team-code": "TOR",
+     "origin": "Republic of the Congo"
+    },
+    {
+     "id": 83,
+     "firstName": " Kawhi",
+     "lastName": "Leonard",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "230 lb ",
+     "team-code": "TOR",
+     "origin": "San Diego State"
+    },
+    {
+     "id": 84,
+     "firstName": " Kyle",
+     "lastName": "Lowry",
+     "position": "G",
+     "height": "6 ft 0 in ",
+     "weight": "205 lb ",
+     "team-code": "TOR",
+     "origin": "Villanova"
+    },
+    {
+     "id": 85,
+     "firstName": " Jordan ",
+     "lastName": "Loyd",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "210 lb ",
+     "team-code": "TOR",
+     "origin": "Indianapolis"
+    },
+    {
+     "id": 86,
+     "firstName": " C. J.",
+     "lastName": "Miles",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "225 lb ",
+     "team-code": "TOR",
+     "origin": "Skyline HS (TX)"
+    },
+    {
+     "id": 87,
+     "firstName": " Greg",
+     "lastName": "Monroe",
+     "position": "F\/C",
+     "height": "6 ft 11 in",
+     "weight": "265 lb ",
+     "team-code": "TOR",
+     "origin": "Georgetown"
+    },
+    {
+     "id": 88,
+     "firstName": " Norman",
+     "lastName": "Powell",
+     "position": "G\/F",
+     "height": "6 ft 4 in ",
+     "weight": "215 lb ",
+     "team-code": "TOR",
+     "origin": "UCLA"
+    },
+    {
+     "id": 89,
+     "firstName": " Malachi",
+     "lastName": "Richardson",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "205 lb ",
+     "team-code": "TOR",
+     "origin": "Syracuse"
+    },
+    {
+     "id": 90,
+     "firstName": " Pascal",
+     "lastName": "Siakam",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "230 lb ",
+     "team-code": "TOR",
+     "origin": "New Mexico State"
+    },
+    {
+     "id": 91,
+     "firstName": " Jonas",
+     "lastName": "Valanciunas",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "255 lb ",
+     "team-code": "TOR",
+     "origin": "Lithuania"
+    },
+    {
+     "id": 92,
+     "firstName": " Fred",
+     "lastName": "VanVleet",
+     "position": "G",
+     "height": "6 ft 0 in ",
+     "weight": "195 lb ",
+     "team-code": "TOR",
+     "origin": "Wichita State"
+    },
+    {
+     "id": 93,
+     "firstName": " Delon",
+     "lastName": "Wright",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "190 lb ",
+     "team-code": "TOR",
+     "origin": "Utah"
+    },
+    {
+     "id": 94,
+     "firstName": " Rawle ",
+     "lastName": "Alkins",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "220 lb ",
+     "team-code": "CHI",
+     "origin": "Arizona"
+    },
+    {
+     "id": 95,
+     "firstName": " Ryan",
+     "lastName": "Arcidiacono",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "195 lb ",
+     "team-code": "CHI",
+     "origin": "Villanova"
+    },
+    {
+     "id": 96,
+     "firstName": " Omer ",
+     "lastName": "Asik",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "255 lb ",
+     "team-code": "CHI",
+     "origin": "Turkey"
+    },
+    {
+     "id": 97,
+     "firstName": " Antonio",
+     "lastName": "Blakeney",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "197 lb ",
+     "team-code": "CHI",
+     "origin": "LSU"
+    },
+    {
+     "id": 98,
+     "firstName": " Wendell",
+     "lastName": "Carter",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "251 lb ",
+     "team-code": "CHI",
+     "origin": "Duke"
+    },
+    {
+     "id": 99,
+     "firstName": " Antonius",
+     "lastName": "Cleveland",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "195 lb ",
+     "team-code": "CHI",
+     "origin": "Southeast Missouri State"
+    },
+    {
+     "id": 100,
+     "firstName": " Kris",
+     "lastName": "Dunn",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "210 lb ",
+     "team-code": "CHI",
+     "origin": "Providence"
+    },
+    {
+     "id": 101,
+     "firstName": " Cristiano",
+     "lastName": "Felicio",
+     "position": "F\/C",
+     "height": "6 ft 9 in ",
+     "weight": "280 lb ",
+     "team-code": "CHI",
+     "origin": "CCSE Prep (CA)"
+    },
+    {
+     "id": 102,
+     "firstName": " Justin",
+     "lastName": "Holiday",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "185 lb ",
+     "team-code": "CHI",
+     "origin": "Washington"
+    },
+    {
+     "id": 103,
+     "firstName": " Chandler",
+     "lastName": "Hutchison",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "197 lb ",
+     "team-code": "CHI",
+     "origin": "Boise State"
+    },
+    {
+     "id": 104,
+     "firstName": " Zach",
+     "lastName": "LaVine",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "185 lb ",
+     "team-code": "CHI",
+     "origin": "UCLA"
+    },
+    {
+     "id": 105,
+     "firstName": " Robin",
+     "lastName": "Lopez",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "277 lb ",
+     "team-code": "CHI",
+     "origin": "Stanford"
+    },
+    {
+     "id": 106,
+     "firstName": " Lauri",
+     "lastName": "Markkanen",
+     "position": "F",
+     "height": "7 ft 0 in ",
+     "weight": "230 lb ",
+     "team-code": "CHI",
+     "origin": "Arizona"
+    },
+    {
+     "id": 107,
+     "firstName": " Jabari",
+     "lastName": "Parker",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "250 lb ",
+     "team-code": "CHI",
+     "origin": "Duke"
+    },
+    {
+     "id": 108,
+     "firstName": " Cameron",
+     "lastName": "Payne",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "185 lb ",
+     "team-code": "CHI",
+     "origin": "Murray State"
+    },
+    {
+     "id": 109,
+     "firstName": " Bobby",
+     "lastName": "Portis",
+     "position": "F",
+     "height": "6 ft 11 in",
+     "weight": "248 lb ",
+     "team-code": "CHI",
+     "origin": "Arkansas"
+    },
+    {
+     "id": 110,
+     "firstName": " Denzel",
+     "lastName": "Valentine",
+     "position": "F",
+     "height": "6 ft 6 in ",
+     "weight": "214 lb ",
+     "team-code": "CHI",
+     "origin": "Michigan State"
+    },
+    {
+     "id": 111,
+     "firstName": " Derrick",
+     "lastName": "Walton",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "185 lb ",
+     "team-code": "CHI",
+     "origin": "Michigan"
+    },
+    {
+     "id": 112,
+     "firstName": " Jordan",
+     "lastName": "Clarkson",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "194 lb ",
+     "team-code": "CLE",
+     "origin": "Missouri"
+    },
+    {
+     "id": 113,
+     "firstName": " Sam",
+     "lastName": "Dekker",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "230 lb ",
+     "team-code": "CLE",
+     "origin": "Wisconsin"
+    },
+    {
+     "id": 114,
+     "firstName": " Channing",
+     "lastName": "Frye",
+     "position": "F",
+     "height": "6 ft 11 in",
+     "weight": "255 lb ",
+     "team-code": "CLE",
+     "origin": "Arizona"
+    },
+    {
+     "id": 115,
+     "firstName": " George",
+     "lastName": "Hill",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "188 lb ",
+     "team-code": "CLE",
+     "origin": "IUPUI"
+    },
+    {
+     "id": 116,
+     "firstName": " John ",
+     "lastName": "Holland",
+     "position": "G\/F",
+     "height": "6 ft 5 in ",
+     "weight": "205 lb ",
+     "team-code": "CLE",
+     "origin": "Boston University"
+    },
+    {
+     "id": 117,
+     "firstName": " Rodney",
+     "lastName": "Hood",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "206 lb ",
+     "team-code": "CLE",
+     "origin": "Duke"
+    },
+    {
+     "id": 118,
+     "firstName": " Kyle",
+     "lastName": "Korver",
+     "position": "G",
+     "height": "6 ft 7 in ",
+     "weight": "212 lb ",
+     "team-code": "CLE",
+     "origin": "Creighton"
+    },
+    {
+     "id": 119,
+     "firstName": " Kevin",
+     "lastName": "Love",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "251 lb ",
+     "team-code": "CLE",
+     "origin": "UCLA"
+    },
+    {
+     "id": 120,
+     "firstName": " Larry",
+     "lastName": "Nance",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "230 lb ",
+     "team-code": "CLE",
+     "origin": "Wyoming"
+    },
+    {
+     "id": 121,
+     "firstName": " David",
+     "lastName": "Nwaba",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "209 lb ",
+     "team-code": "CLE",
+     "origin": "Cal Poly San Luis Obispo"
+    },
+    {
+     "id": 122,
+     "firstName": " Cedi",
+     "lastName": "Osman",
+     "position": "G\/F",
+     "height": "6 ft 8 in ",
+     "weight": "215 lb ",
+     "team-code": "CLE",
+     "origin": "Turkey"
+    },
+    {
+     "id": 123,
+     "firstName": " Billy ",
+     "lastName": "Preston",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "240 lb ",
+     "team-code": "CLE",
+     "origin": "Oak Hill Academy (VA)"
+    },
+    {
+     "id": 124,
+     "firstName": " Collin",
+     "lastName": "Sexton",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "183 lb ",
+     "team-code": "CLE",
+     "origin": "Alabama"
+    },
+    {
+     "id": 125,
+     "firstName": " J. R.",
+     "lastName": "Smith",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "225 lb ",
+     "team-code": "CLE",
+     "origin": "St. Benedict's Prep (NJ)"
+    },
+    {
+     "id": 126,
+     "firstName": " Tristan",
+     "lastName": "Thompson",
+     "position": "F\/C",
+     "height": "6 ft 9 in ",
+     "weight": "238 lb ",
+     "team-code": "CLE",
+     "origin": "Texas"
+    },
+    {
+     "id": 127,
+     "firstName": " Ante",
+     "lastName": "Zizic",
+     "position": "F\/C",
+     "height": "6 ft 11 in",
+     "weight": "250 lb ",
+     "team-code": "CLE",
+     "origin": "Croatia"
+    },
+    {
+     "id": 128,
+     "firstName": " Bruce",
+     "lastName": "Brown",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "202 lb ",
+     "team-code": "DET",
+     "origin": "Miami (FL)"
+    },
+    {
+     "id": 129,
+     "firstName": " Reggie",
+     "lastName": "Bullock",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "205 lb ",
+     "team-code": "DET",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 130,
+     "firstName": " Jose",
+     "lastName": "Calderon",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "200 lb ",
+     "team-code": "DET",
+     "origin": "Spain"
+    },
+    {
+     "id": 131,
+     "firstName": " Andre",
+     "lastName": "Drummond",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "279 lb ",
+     "team-code": "DET",
+     "origin": "Connecticut"
+    },
+    {
+     "id": 132,
+     "firstName": " Henry",
+     "lastName": "Ellenson",
+     "position": "F",
+     "height": "6 ft 11 in",
+     "weight": "245 lb ",
+     "team-code": "DET",
+     "origin": "Marquette"
+    },
+    {
+     "id": 133,
+     "firstName": " Keenan ",
+     "lastName": "Evans",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "190 lb ",
+     "team-code": "DET",
+     "origin": "Texas Tech"
+    },
+    {
+     "id": 134,
+     "firstName": " Langston",
+     "lastName": "Galloway",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "200 lb ",
+     "team-code": "DET",
+     "origin": "Saint Joseph's"
+    },
+    {
+     "id": 135,
+     "firstName": " Blake",
+     "lastName": "Griffin",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "251 lb ",
+     "team-code": "DET",
+     "origin": "Oklahoma"
+    },
+    {
+     "id": 136,
+     "firstName": " Reggie ",
+     "lastName": "Hearn",
+     "position": "F",
+     "height": "6 ft 5 in ",
+     "weight": "210 lb ",
+     "team-code": "DET",
+     "origin": "Northwestern"
+    },
+    {
+     "id": 137,
+     "firstName": " Reggie",
+     "lastName": "Jackson",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "208 lb ",
+     "team-code": "DET",
+     "origin": "Boston College"
+    },
+    {
+     "id": 138,
+     "firstName": " Stanley",
+     "lastName": "Johnson",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "245 lb ",
+     "team-code": "DET",
+     "origin": "Arizona"
+    },
+    {
+     "id": 139,
+     "firstName": " Luke",
+     "lastName": "Kennard",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "200 lb ",
+     "team-code": "DET",
+     "origin": "Duke"
+    },
+    {
+     "id": 140,
+     "firstName": " Jon ",
+     "lastName": "Leuer",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "228 lb ",
+     "team-code": "DET",
+     "origin": "Wisconsin"
+    },
+    {
+     "id": 141,
+     "firstName": " Zaza",
+     "lastName": "Pachulia",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "270 lb ",
+     "team-code": "DET",
+     "origin": "Georgia"
+    },
+    {
+     "id": 142,
+     "firstName": " Glenn",
+     "lastName": "Robinson",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "215 lb ",
+     "team-code": "DET",
+     "origin": "Michigan"
+    },
+    {
+     "id": 143,
+     "firstName": " Ish",
+     "lastName": "Smith",
+     "position": "G",
+     "height": "6 ft 0 in ",
+     "weight": "175 lb ",
+     "team-code": "DET",
+     "origin": "Wake Forest"
+    },
+    {
+     "id": 144,
+     "firstName": " Khyri",
+     "lastName": "Thomas",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "199 lb ",
+     "team-code": "DET",
+     "origin": "Creighton"
+    },
+    {
+     "id": 145,
+     "firstName": " Ike",
+     "lastName": "Anigbogu",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "262 lb ",
+     "team-code": "IND",
+     "origin": "UCLA"
+    },
+    {
+     "id": 146,
+     "firstName": " Bojan",
+     "lastName": "Bogdanovic",
+     "position": "G\/F",
+     "height": "6 ft 8 in ",
+     "weight": "230 lb ",
+     "team-code": "IND",
+     "origin": "Croatia"
+    },
+    {
+     "id": 147,
+     "firstName": " Darren",
+     "lastName": "Collison",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "185 lb ",
+     "team-code": "IND",
+     "origin": "UCLA"
+    },
+    {
+     "id": 148,
+     "firstName": " Tyreke",
+     "lastName": "Evans",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "220 lb ",
+     "team-code": "IND",
+     "origin": "Memphis"
+    },
+    {
+     "id": 149,
+     "firstName": " Aaron",
+     "lastName": "Holiday",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "187 lb ",
+     "team-code": "IND",
+     "origin": "UCLA"
+    },
+    {
+     "id": 150,
+     "firstName": " Alize",
+     "lastName": "Johnson",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "216 lb ",
+     "team-code": "IND",
+     "origin": "Missouri State"
+    },
+    {
+     "id": 151,
+     "firstName": " Cory",
+     "lastName": "Joseph",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "190 lb ",
+     "team-code": "IND",
+     "origin": "Texas"
+    },
+    {
+     "id": 152,
+     "firstName": " T. J.",
+     "lastName": "Leaf",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "230 lb ",
+     "team-code": "IND",
+     "origin": "UCLA"
+    },
+    {
+     "id": 153,
+     "firstName": " Doug",
+     "lastName": "McDermott",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "219 lb ",
+     "team-code": "IND",
+     "origin": "Creighton"
+    },
+    {
+     "id": 154,
+     "firstName": " Victor",
+     "lastName": "Oladipo",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "210 lb ",
+     "team-code": "IND",
+     "origin": "Indiana"
+    },
+    {
+     "id": 155,
+     "firstName": " Kyle",
+     "lastName": "O'Quinn",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "250 lb ",
+     "team-code": "IND",
+     "origin": "Norfolk State"
+    },
+    {
+     "id": 156,
+     "firstName": " Domantas",
+     "lastName": "Sabonis",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "252 lb ",
+     "team-code": "IND",
+     "origin": "Gonzaga"
+    },
+    {
+     "id": 157,
+     "firstName": " Edmond ",
+     "lastName": "Sumner",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "188 lb ",
+     "team-code": "IND",
+     "origin": "Xavier"
+    },
+    {
+     "id": 158,
+     "firstName": " Myles",
+     "lastName": "Turner",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "255 lb ",
+     "team-code": "IND",
+     "origin": "Texas"
+    },
+    {
+     "id": 159,
+     "firstName": " C. J. ",
+     "lastName": "Wilcox",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "195 lb ",
+     "team-code": "IND",
+     "origin": "Washington"
+    },
+    {
+     "id": 160,
+     "firstName": " Thaddeus",
+     "lastName": "Young",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "230 lb ",
+     "team-code": "IND",
+     "origin": "Georgia Tech"
+    },
+    {
+     "id": 161,
+     "firstName": " Giannis",
+     "lastName": "Antetokounmpo",
+     "position": "F",
+     "height": "6 ft 11 in",
+     "weight": "222 lb ",
+     "team-code": "MIL",
+     "origin": "Greece"
+    },
+    {
+     "id": 162,
+     "firstName": " Jordan",
+     "lastName": "Barnett",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "215 lb ",
+     "team-code": "MIL",
+     "origin": "Missouri"
+    },
+    {
+     "id": 163,
+     "firstName": " Eric",
+     "lastName": "Bledsoe",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "205 lb ",
+     "team-code": "MIL",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 164,
+     "firstName": " Malcolm",
+     "lastName": "Brogdon",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "215 lb ",
+     "team-code": "MIL",
+     "origin": "Virginia"
+    },
+    {
+     "id": 165,
+     "firstName": " Sterling",
+     "lastName": "Brown",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "230 lb ",
+     "team-code": "MIL",
+     "origin": "SMU"
+    },
+    {
+     "id": 166,
+     "firstName": " Pat",
+     "lastName": "Connaughton",
+     "position": "G\/F",
+     "height": "6 ft 5 in ",
+     "weight": "210 lb ",
+     "team-code": "MIL",
+     "origin": "Notre Dame"
+    },
+    {
+     "id": 167,
+     "firstName": " Matthew",
+     "lastName": "Dellavedova",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "198 lb ",
+     "team-code": "MIL",
+     "origin": "Saint Mary's"
+    },
+    {
+     "id": 168,
+     "firstName": " Donte",
+     "lastName": "DiVincenzo",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "200 lb ",
+     "team-code": "MIL",
+     "origin": "Villanova"
+    },
+    {
+     "id": 169,
+     "firstName": " Trevon ",
+     "lastName": "Duval",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "186 lb ",
+     "team-code": "MIL",
+     "origin": "Duke"
+    },
+    {
+     "id": 170,
+     "firstName": " John",
+     "lastName": "Henson",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "229 lb ",
+     "team-code": "MIL",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 171,
+     "firstName": " Ersan",
+     "lastName": "Ilyasova",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "235 lb ",
+     "team-code": "MIL",
+     "origin": "Turkey"
+    },
+    {
+     "id": 172,
+     "firstName": " Brook",
+     "lastName": "Lopez",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "268 lb ",
+     "team-code": "MIL",
+     "origin": "Stanford"
+    },
+    {
+     "id": 173,
+     "firstName": " Thon",
+     "lastName": "Maker",
+     "position": "F\/C",
+     "height": "7 ft 1 in ",
+     "weight": "223 lb ",
+     "team-code": "MIL",
+     "origin": "Orangeville Prep (CAN)"
+    },
+    {
+     "id": 174,
+     "firstName": " Brandon",
+     "lastName": "McCoy",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "250 lb ",
+     "team-code": "MIL",
+     "origin": "UNLV"
+    },
+    {
+     "id": 175,
+     "firstName": " Khris",
+     "lastName": "Middleton",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "234 lb ",
+     "team-code": "MIL",
+     "origin": "Texas A&amp;M"
+    },
+    {
+     "id": 176,
+     "firstName": " Jaylen ",
+     "lastName": "Morris",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "185 lb ",
+     "team-code": "MIL",
+     "origin": "Molloy"
+    },
+    {
+     "id": 177,
+     "firstName": " Tony",
+     "lastName": "Snell",
+     "position": "G",
+     "height": "6 ft 7 in ",
+     "weight": "221 lb ",
+     "team-code": "MIL",
+     "origin": "New Mexico"
+    },
+    {
+     "id": 178,
+     "firstName": " Travis",
+     "lastName": "Trice",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "177 lb ",
+     "team-code": "MIL",
+     "origin": "Michigan State"
+    },
+    {
+     "id": 179,
+     "firstName": " D. J.",
+     "lastName": "Wilson",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "236 lb ",
+     "team-code": "MIL",
+     "origin": "Michigan"
+    },
+    {
+     "id": 180,
+     "firstName": " Tyler",
+     "lastName": "Zeller",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "250 lb ",
+     "team-code": "MIL",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 181,
+     "firstName": " Jaylen ",
+     "lastName": "Adams",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "190 lb ",
+     "team-code": "ATL",
+     "origin": "St. Bonaventure"
+    },
+    {
+     "id": 182,
+     "firstName": " Cole",
+     "lastName": "Aldrich",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "253 lb ",
+     "team-code": "ATL",
+     "origin": "Kansas"
+    },
+    {
+     "id": 183,
+     "firstName": " Justin",
+     "lastName": "Anderson",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "230 lb ",
+     "team-code": "ATL",
+     "origin": "Virginia"
+    },
+    {
+     "id": 184,
+     "firstName": " Kent",
+     "lastName": "Bazemore",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "201 lb ",
+     "team-code": "ATL",
+     "origin": "Old Dominion"
+    },
+    {
+     "id": 185,
+     "firstName": " DeAndre'",
+     "lastName": "Bembry",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "210 lb ",
+     "team-code": "ATL",
+     "origin": "Saint Joseph's"
+    },
+    {
+     "id": 186,
+     "firstName": " Vince",
+     "lastName": "Carter",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "220 lb ",
+     "team-code": "ATL",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 187,
+     "firstName": " John",
+     "lastName": "Collins",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "235 lb ",
+     "team-code": "ATL",
+     "origin": "Wake Forest"
+    },
+    {
+     "id": 188,
+     "firstName": " Dewayne",
+     "lastName": "Dedmon",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "245 lb ",
+     "team-code": "ATL",
+     "origin": "Southern California"
+    },
+    {
+     "id": 189,
+     "firstName": " Tyler",
+     "lastName": "Dorsey",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "183 lb ",
+     "team-code": "ATL",
+     "origin": "Oregon"
+    },
+    {
+     "id": 190,
+     "firstName": " Daniel",
+     "lastName": "Hamilton",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "195 lb ",
+     "team-code": "ATL",
+     "origin": "Connecticut"
+    },
+    {
+     "id": 191,
+     "firstName": " R. J.",
+     "lastName": "Hunter",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "185 lb ",
+     "team-code": "ATL",
+     "origin": "Georgia State"
+    },
+    {
+     "id": 192,
+     "firstName": " Kevin",
+     "lastName": "Huerter",
+     "position": "G",
+     "height": "6 ft 7 in ",
+     "weight": "194 lb ",
+     "team-code": "ATL",
+     "origin": "Maryland"
+    },
+    {
+     "id": 193,
+     "firstName": " Alex",
+     "lastName": "Len",
+     "position": "C",
+     "height": "7 ft 1 in ",
+     "weight": "250 lb ",
+     "team-code": "ATL",
+     "origin": "Maryland"
+    },
+    {
+     "id": 194,
+     "firstName": " Jeremy ",
+     "lastName": "Lin",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "200 lb ",
+     "team-code": "ATL",
+     "origin": "Harvard"
+    },
+    {
+     "id": 195,
+     "firstName": " Miles",
+     "lastName": "Plumlee",
+     "position": "F\/C",
+     "height": "6 ft 11 in",
+     "weight": "249 lb ",
+     "team-code": "ATL",
+     "origin": "Duke"
+    },
+    {
+     "id": 196,
+     "firstName": " Alex ",
+     "lastName": "Poythress",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "235 lb ",
+     "team-code": "ATL",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 197,
+     "firstName": " Taurean",
+     "lastName": "Prince",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "220 lb ",
+     "team-code": "ATL",
+     "origin": "Baylor"
+    },
+    {
+     "id": 198,
+     "firstName": " Thomas",
+     "lastName": "Robinson",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "237 lb ",
+     "team-code": "ATL",
+     "origin": "Kansas"
+    },
+    {
+     "id": 199,
+     "firstName": " Omari",
+     "lastName": "Spellman",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "253 lb ",
+     "team-code": "ATL",
+     "origin": "Villanova"
+    },
+    {
+     "id": 200,
+     "firstName": " Trae",
+     "lastName": "Young",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "178 lb ",
+     "team-code": "ATL",
+     "origin": "Oklahoma"
+    },
+    {
+     "id": 201,
+     "firstName": " Dwayne",
+     "lastName": "Bacon",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "221 lb ",
+     "team-code": "CHO",
+     "origin": "Florida State"
+    },
+    {
+     "id": 202,
+     "firstName": " Jaylen",
+     "lastName": "Barford",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "207 lb ",
+     "team-code": "CHO",
+     "origin": "Arkansas"
+    },
+    {
+     "id": 203,
+     "firstName": " Nicolas",
+     "lastName": "Batum",
+     "position": "G\/F",
+     "height": "6 ft 8 in ",
+     "weight": "200 lb ",
+     "team-code": "CHO",
+     "origin": "France"
+    },
+    {
+     "id": 204,
+     "firstName": " Bismack",
+     "lastName": "Biyombo",
+     "position": "C",
+     "height": "6 ft 9 in ",
+     "weight": "255 lb ",
+     "team-code": "CHO",
+     "origin": "DR Congo"
+    },
+    {
+     "id": 205,
+     "firstName": " Miles",
+     "lastName": "Bridges",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "220 lb ",
+     "team-code": "CHO",
+     "origin": "Michigan State"
+    },
+    {
+     "id": 206,
+     "firstName": " Joe",
+     "lastName": "Chealey",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "190 lb ",
+     "team-code": "CHO",
+     "origin": "College of Charleston"
+    },
+    {
+     "id": 207,
+     "firstName": " Devonte'",
+     "lastName": "Graham",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "185 lb ",
+     "team-code": "CHO",
+     "origin": "Kansas"
+    },
+    {
+     "id": 208,
+     "firstName": " Willy",
+     "lastName": "Hernangomez",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "240 lb ",
+     "team-code": "CHO",
+     "origin": "Spain"
+    },
+    {
+     "id": 209,
+     "firstName": " Frank",
+     "lastName": "Kaminsky",
+     "position": "F\/C",
+     "height": "7 ft 0 in ",
+     "weight": "242 lb ",
+     "team-code": "CHO",
+     "origin": "Wisconsin"
+    },
+    {
+     "id": 210,
+     "firstName": " Michael",
+     "lastName": "Kidd-Gilchrist",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "232 lb ",
+     "team-code": "CHO",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 211,
+     "firstName": " Jeremy",
+     "lastName": "Lamb",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "185 lb ",
+     "team-code": "CHO",
+     "origin": "Connecticut"
+    },
+    {
+     "id": 212,
+     "firstName": " J. P. ",
+     "lastName": "Macura",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "203 lb ",
+     "team-code": "CHO",
+     "origin": "Xavier"
+    },
+    {
+     "id": 213,
+     "firstName": " Malik",
+     "lastName": "Monk",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "200 lb ",
+     "team-code": "CHO",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 214,
+     "firstName": " Tony",
+     "lastName": "Parker",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "185 lb ",
+     "team-code": "CHO",
+     "origin": "France"
+    },
+    {
+     "id": 215,
+     "firstName": " Zach",
+     "lastName": "Smith",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "220 lb ",
+     "team-code": "CHO",
+     "origin": "Texas Tech"
+    },
+    {
+     "id": 216,
+     "firstName": " Kemba",
+     "lastName": "Walker",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "184 lb ",
+     "team-code": "CHO",
+     "origin": "Connecticut"
+    },
+    {
+     "id": 217,
+     "firstName": " Isaiah",
+     "lastName": "Wilkins",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "205 lb ",
+     "team-code": "CHO",
+     "origin": "Virginia"
+    },
+    {
+     "id": 218,
+     "firstName": " Marvin",
+     "lastName": "Williams",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "237 lb ",
+     "team-code": "CHO",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 219,
+     "firstName": " Cody",
+     "lastName": "Zeller",
+     "position": "F\/C",
+     "height": "7 ft 0 in ",
+     "weight": "240 lb ",
+     "team-code": "CHO",
+     "origin": "Indiana"
+    },
+    {
+     "id": 220,
+     "firstName": " Bam",
+     "lastName": "Adebayo",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "255 lb ",
+     "team-code": "MIA",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 221,
+     "firstName": " Goran",
+     "lastName": "Dragic",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "190 lb ",
+     "team-code": "MIA",
+     "origin": "Slovenia"
+    },
+    {
+     "id": 222,
+     "firstName": " Wayne",
+     "lastName": "Ellington",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "200 lb ",
+     "team-code": "MIA",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 223,
+     "firstName": " Udonis",
+     "lastName": "Haslem",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "235 lb ",
+     "team-code": "MIA",
+     "origin": "Florida"
+    },
+    {
+     "id": 224,
+     "firstName": " James",
+     "lastName": "Johnson",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "240 lb ",
+     "team-code": "MIA",
+     "origin": "Wake Forest"
+    },
+    {
+     "id": 225,
+     "firstName": " Tyler",
+     "lastName": "Johnson",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "190 lb ",
+     "team-code": "MIA",
+     "origin": "Fresno State"
+    },
+    {
+     "id": 226,
+     "firstName": " Derrick",
+     "lastName": "Jones",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "200 lb ",
+     "team-code": "MIA",
+     "origin": "UNLV"
+    },
+    {
+     "id": 227,
+     "firstName": " Marcus",
+     "lastName": "Lee",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "225 lb ",
+     "team-code": "MIA",
+     "origin": "California"
+    },
+    {
+     "id": 228,
+     "firstName": " Yante ",
+     "lastName": "Maten",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "240 lb ",
+     "team-code": "MIA",
+     "origin": "Georgia"
+    },
+    {
+     "id": 229,
+     "firstName": " Rodney",
+     "lastName": "McGruder",
+     "position": "G\/F",
+     "height": "6 ft 4 in ",
+     "weight": "200 lb ",
+     "team-code": "MIA",
+     "origin": "Kansas State"
+    },
+    {
+     "id": 230,
+     "firstName": " Malik",
+     "lastName": "Newman",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "190 lb ",
+     "team-code": "MIA",
+     "origin": "Kansas"
+    },
+    {
+     "id": 231,
+     "firstName": " Kelly",
+     "lastName": "Olynyk",
+     "position": "F\/C",
+     "height": "7 ft 0 in ",
+     "weight": "240 lb ",
+     "team-code": "MIA",
+     "origin": "Gonzaga"
+    },
+    {
+     "id": 232,
+     "firstName": " Josh",
+     "lastName": "Richardson",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "200 lb ",
+     "team-code": "MIA",
+     "origin": "Tennessee"
+    },
+    {
+     "id": 233,
+     "firstName": " Duncan ",
+     "lastName": "Robinson",
+     "position": "G\/F",
+     "height": "6 ft 8 in ",
+     "weight": "210 lb ",
+     "team-code": "MIA",
+     "origin": "Michigan"
+    },
+    {
+     "id": 234,
+     "firstName": " Jarnell",
+     "lastName": "Stokes",
+     "position": "F\/C",
+     "height": "6 ft 9 in ",
+     "weight": "255 lb ",
+     "team-code": "MIA",
+     "origin": "Tennessee"
+    },
+    {
+     "id": 235,
+     "firstName": " Dwyane",
+     "lastName": "Wade",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "220 lb ",
+     "team-code": "MIA",
+     "origin": "Marquette"
+    },
+    {
+     "id": 236,
+     "firstName": " Dion ",
+     "lastName": "Waiters",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "215 lb ",
+     "team-code": "MIA",
+     "origin": "Syracuse"
+    },
+    {
+     "id": 237,
+     "firstName": " Briante",
+     "lastName": "Weber",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "170 lb ",
+     "team-code": "MIA",
+     "origin": "Virginia Commonwealth"
+    },
+    {
+     "id": 238,
+     "firstName": " Hassan",
+     "lastName": "Whiteside",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "265 lb ",
+     "team-code": "MIA",
+     "origin": "Marshall"
+    },
+    {
+     "id": 239,
+     "firstName": " Justise",
+     "lastName": "Winslow",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "225 lb ",
+     "team-code": "MIA",
+     "origin": "Duke"
+    },
+    {
+     "id": 240,
+     "firstName": " D. J.",
+     "lastName": "Augustin",
+     "position": "G",
+     "height": "6 ft 0 in ",
+     "weight": "183 lb ",
+     "team-code": "ORL",
+     "origin": "Texas"
+    },
+    {
+     "id": 241,
+     "firstName": " Mohamed",
+     "lastName": "Bamba",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "225 lb ",
+     "team-code": "ORL",
+     "origin": "Texas"
+    },
+    {
+     "id": 242,
+     "firstName": " Khem",
+     "lastName": "Birch",
+     "position": "C",
+     "height": "6 ft 9 in ",
+     "weight": "220 lb ",
+     "team-code": "ORL",
+     "origin": "UNLV"
+    },
+    {
+     "id": 243,
+     "firstName": " Isaiah",
+     "lastName": "Briscoe",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "220 lb ",
+     "team-code": "ORL",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 244,
+     "firstName": " Troy ",
+     "lastName": "Caupain",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "210 lb ",
+     "team-code": "ORL",
+     "origin": "Cincinnati"
+    },
+    {
+     "id": 245,
+     "firstName": " Evan",
+     "lastName": "Fournier",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "205 lb ",
+     "team-code": "ORL",
+     "origin": "France"
+    },
+    {
+     "id": 246,
+     "firstName": " Melvin",
+     "lastName": "Frazier",
+     "position": "F",
+     "height": "6 ft 6 in ",
+     "weight": "198 lb ",
+     "team-code": "ORL",
+     "origin": "Tulane"
+    },
+    {
+     "id": 247,
+     "firstName": " Aaron",
+     "lastName": "Gordon",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "220 lb ",
+     "team-code": "ORL",
+     "origin": "Arizona"
+    },
+    {
+     "id": 248,
+     "firstName": " Jerian",
+     "lastName": "Grant",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "198 lb ",
+     "team-code": "ORL",
+     "origin": "Notre Dame"
+    },
+    {
+     "id": 249,
+     "firstName": " Jonathan",
+     "lastName": "Isaac",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "210 lb ",
+     "team-code": "ORL",
+     "origin": "Florida State"
+    },
+    {
+     "id": 250,
+     "firstName": " Wes",
+     "lastName": "Iwundu",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "195 lb ",
+     "team-code": "ORL",
+     "origin": "Kansas State"
+    },
+    {
+     "id": 251,
+     "firstName": " Amile ",
+     "lastName": "Jefferson",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "224 lb ",
+     "team-code": "ORL",
+     "origin": "Duke"
+    },
+    {
+     "id": 252,
+     "firstName": " B. J.",
+     "lastName": "Johnson",
+     "position": "G",
+     "height": "6 ft 7 in ",
+     "weight": "200 lb ",
+     "team-code": "ORL",
+     "origin": "La Salle"
+    },
+    {
+     "id": 253,
+     "firstName": " Jarell",
+     "lastName": "Martin",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "239 lb ",
+     "team-code": "ORL",
+     "origin": "LSU"
+    },
+    {
+     "id": 254,
+     "firstName": " Timofey",
+     "lastName": "Mozgov",
+     "position": "C",
+     "height": "7 ft 1 in ",
+     "weight": "275 lb ",
+     "team-code": "ORL",
+     "origin": "Russia"
+    },
+    {
+     "id": 255,
+     "firstName": " Terrence",
+     "lastName": "Ross",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "206 lb ",
+     "team-code": "ORL",
+     "origin": "Washington"
+    },
+    {
+     "id": 256,
+     "firstName": " Jonathon",
+     "lastName": "Simmons",
+     "position": "F",
+     "height": "6 ft 6 in ",
+     "weight": "195 lb ",
+     "team-code": "ORL",
+     "origin": "Houston"
+    },
+    {
+     "id": 257,
+     "firstName": " Nikola",
+     "lastName": "Vucevic",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "260 lb ",
+     "team-code": "ORL",
+     "origin": "Southern California"
+    },
+    {
+     "id": 258,
+     "firstName": " Gabe",
+     "lastName": "York",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "190 lb ",
+     "team-code": "ORL",
+     "origin": "Arizona"
+    },
+    {
+     "id": 259,
+     "firstName": " Lavoy",
+     "lastName": "Allen",
+     "position": "F\/C",
+     "height": "6 ft 9 in ",
+     "weight": "260 lb ",
+     "team-code": "WAS",
+     "origin": "Temple"
+    },
+    {
+     "id": 260,
+     "firstName": " Bradley",
+     "lastName": "Beal",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "207 lb ",
+     "team-code": "WAS",
+     "origin": "Florida"
+    },
+    {
+     "id": 261,
+     "firstName": " Troy",
+     "lastName": "Brown",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "215 lb ",
+     "team-code": "WAS",
+     "origin": "Oregon"
+    },
+    {
+     "id": 262,
+     "firstName": " Thomas",
+     "lastName": "Bryant",
+     "position": "C",
+     "height": "6 ft 10 in",
+     "weight": "248 lb ",
+     "team-code": "WAS",
+     "origin": "Indiana"
+    },
+    {
+     "id": 263,
+     "firstName": " Chris",
+     "lastName": "Chiozza",
+     "position": "G",
+     "height": "6 ft 0 in ",
+     "weight": "175 lb ",
+     "team-code": "WAS",
+     "origin": "Florida"
+    },
+    {
+     "id": 264,
+     "firstName": " Jeff",
+     "lastName": "Green",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "235 lb ",
+     "team-code": "WAS",
+     "origin": "Georgetown"
+    },
+    {
+     "id": 265,
+     "firstName": " Dwight",
+     "lastName": "Howard",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "265 lb ",
+     "team-code": "WAS",
+     "origin": "SW Atlanta Academy (GA)"
+    },
+    {
+     "id": 266,
+     "firstName": " Tiwian",
+     "lastName": "Kendley",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "190 lb ",
+     "team-code": "WAS",
+     "origin": "Morgan State"
+    },
+    {
+     "id": 267,
+     "firstName": " Ian",
+     "lastName": "Mahinmi",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "262 lb ",
+     "team-code": "WAS",
+     "origin": "France"
+    },
+    {
+     "id": 268,
+     "firstName": " Jordan",
+     "lastName": "McRae",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "179 lb ",
+     "team-code": "WAS",
+     "origin": "Tennessee"
+    },
+    {
+     "id": 269,
+     "firstName": " Jodie",
+     "lastName": "Meeks",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "210 lb ",
+     "team-code": "WAS",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 270,
+     "firstName": " Markieff",
+     "lastName": "Morris",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "245 lb ",
+     "team-code": "WAS",
+     "origin": "Kansas"
+    },
+    {
+     "id": 271,
+     "firstName": " Kelly",
+     "lastName": "Oubre",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "205 lb ",
+     "team-code": "WAS",
+     "origin": "Kansas"
+    },
+    {
+     "id": 272,
+     "firstName": " Otto",
+     "lastName": "Porter",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "198 lb ",
+     "team-code": "WAS",
+     "origin": "Georgetown"
+    },
+    {
+     "id": 273,
+     "firstName": " Chasson",
+     "lastName": "Randle",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "185 lb ",
+     "team-code": "WAS",
+     "origin": "Stanford"
+    },
+    {
+     "id": 274,
+     "firstName": " Austin",
+     "lastName": "Rivers",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "200 lb ",
+     "team-code": "WAS",
+     "origin": "Duke"
+    },
+    {
+     "id": 275,
+     "firstName": " Devin ",
+     "lastName": "Robinson",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "200 lb ",
+     "team-code": "WAS",
+     "origin": "Florida"
+    },
+    {
+     "id": 276,
+     "firstName": " Tomas",
+     "lastName": "Satoransky",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "210 lb ",
+     "team-code": "WAS",
+     "origin": "Czech Republic"
+    },
+    {
+     "id": 277,
+     "firstName": " Jason",
+     "lastName": "Smith",
+     "position": "F\/C",
+     "height": "7 ft 0 in ",
+     "weight": "240 lb ",
+     "team-code": "WAS",
+     "origin": "Colorado State"
+    },
+    {
+     "id": 278,
+     "firstName": " John",
+     "lastName": "Wall",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "210 lb ",
+     "team-code": "WAS",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 279,
+     "firstName": " Kostas ",
+     "lastName": "Antetokounmpo",
+     "position": "F",
+     "height": "6 ft 11 in",
+     "weight": "195 lb ",
+     "team-code": "DAL",
+     "origin": "Dayton"
+    },
+    {
+     "id": 280,
+     "firstName": " J. J.",
+     "lastName": "Barea",
+     "position": "G",
+     "height": "6 ft 0 in ",
+     "weight": "185 lb ",
+     "team-code": "DAL",
+     "origin": "Northeastern"
+    },
+    {
+     "id": 281,
+     "firstName": " Harrison",
+     "lastName": "Barnes",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "225 lb ",
+     "team-code": "DAL",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 282,
+     "firstName": " Ryan",
+     "lastName": "Broekhoff",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "215 lb ",
+     "team-code": "DAL",
+     "origin": "Valparaiso"
+    },
+    {
+     "id": 283,
+     "firstName": " Jalen",
+     "lastName": "Brunson",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "190 lb ",
+     "team-code": "DAL",
+     "origin": "Villanova"
+    },
+    {
+     "id": 284,
+     "firstName": " Yanyuhang",
+     "lastName": "Ding",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "205 lb ",
+     "team-code": "DAL",
+     "origin": "China"
+    },
+    {
+     "id": 285,
+     "firstName": " Luka",
+     "lastName": "Doncic",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "218 lb ",
+     "team-code": "DAL",
+     "origin": "Slovenia"
+    },
+    {
+     "id": 286,
+     "firstName": " Dorian",
+     "lastName": "Finney-Smith",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "220 lb ",
+     "team-code": "DAL",
+     "origin": "Florida"
+    },
+    {
+     "id": 287,
+     "firstName": " Devin",
+     "lastName": "Harris",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "185 lb ",
+     "team-code": "DAL",
+     "origin": "Wisconsin"
+    },
+    {
+     "id": 288,
+     "firstName": " DeAndre",
+     "lastName": "Jordan",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "265 lb ",
+     "team-code": "DAL",
+     "origin": "Texas A&amp;M"
+    },
+    {
+     "id": 289,
+     "firstName": " Maxi",
+     "lastName": "Kleber",
+     "position": "F",
+     "height": "6 ft 11 in",
+     "weight": "220 lb ",
+     "team-code": "DAL",
+     "origin": "Germany"
+    },
+    {
+     "id": 290,
+     "firstName": " Daryl ",
+     "lastName": "Macon",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "185 lb ",
+     "team-code": "DAL",
+     "origin": "Arkansas"
+    },
+    {
+     "id": 291,
+     "firstName": " Wesley ",
+     "lastName": "Matthews",
+     "position": "G\/F",
+     "height": "6 ft 5 in ",
+     "weight": "220 lb ",
+     "team-code": "DAL",
+     "origin": "Marquette"
+    },
+    {
+     "id": 292,
+     "firstName": " Salah",
+     "lastName": "Mejri",
+     "position": "C",
+     "height": "7 ft 2 in ",
+     "weight": "235 lb ",
+     "team-code": "DAL",
+     "origin": "Tunisia"
+    },
+    {
+     "id": 293,
+     "firstName": " Codi",
+     "lastName": "Miller-McIntyre",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "191 lb ",
+     "team-code": "DAL",
+     "origin": "Wake Forest"
+    },
+    {
+     "id": 294,
+     "firstName": " Dirk",
+     "lastName": "Nowitzki",
+     "position": "F\/C",
+     "height": "7 ft 0 in ",
+     "weight": "245 lb ",
+     "team-code": "DAL",
+     "origin": "Germany"
+    },
+    {
+     "id": 295,
+     "firstName": " Dwight",
+     "lastName": "Powell",
+     "position": "F\/C",
+     "height": "6 ft 11 in",
+     "weight": "240 lb ",
+     "team-code": "DAL",
+     "origin": "Stanford"
+    },
+    {
+     "id": 296,
+     "firstName": " Dennis",
+     "lastName": "Smith",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "195 lb ",
+     "team-code": "DAL",
+     "origin": "North Carolina State"
+    },
+    {
+     "id": 297,
+     "firstName": " Ray",
+     "lastName": "Spalding",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "225 lb ",
+     "team-code": "DAL",
+     "origin": "Louisville"
+    },
+    {
+     "id": 298,
+     "firstName": " Carmelo",
+     "lastName": "Anthony",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "240 lb ",
+     "team-code": "HOU",
+     "origin": "Syracuse"
+    },
+    {
+     "id": 299,
+     "firstName": " Bruno",
+     "lastName": "Caboclo",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "205 lb ",
+     "team-code": "HOU",
+     "origin": "Brazil"
+    },
+    {
+     "id": 300,
+     "firstName": " Clint",
+     "lastName": "Capela",
+     "position": "C",
+     "height": "6 ft 10 in",
+     "weight": "240 lb ",
+     "team-code": "HOU",
+     "origin": "Switzerland"
+    },
+    {
+     "id": 301,
+     "firstName": " Michael",
+     "lastName": "Carter-Williams",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "190 lb ",
+     "team-code": "HOU",
+     "origin": "Syracuse"
+    },
+    {
+     "id": 302,
+     "firstName": " Marquese",
+     "lastName": "Chriss",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "240 lb ",
+     "team-code": "HOU",
+     "origin": "Washington"
+    },
+    {
+     "id": 303,
+     "firstName": " Gary",
+     "lastName": "Clark",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "225 lb ",
+     "team-code": "HOU",
+     "origin": "Cincinnati"
+    },
+    {
+     "id": 304,
+     "firstName": " Vincent",
+     "lastName": "Edwards",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "220 lb ",
+     "team-code": "HOU",
+     "origin": "Purdue"
+    },
+    {
+     "id": 305,
+     "firstName": " James",
+     "lastName": "Ennis",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "210 lb ",
+     "team-code": "HOU",
+     "origin": "Long Beach State"
+    },
+    {
+     "id": 306,
+     "firstName": " Eric",
+     "lastName": "Gordon",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "215 lb ",
+     "team-code": "HOU",
+     "origin": "Indiana"
+    },
+    {
+     "id": 307,
+     "firstName": " Rob",
+     "lastName": "Gray",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "185 lb ",
+     "team-code": "HOU",
+     "origin": "Houston"
+    },
+    {
+     "id": 308,
+     "firstName": " Gerald",
+     "lastName": "Green",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "205 lb ",
+     "team-code": "HOU",
+     "origin": "Gulf Shores Academy (TX)"
+    },
+    {
+     "id": 309,
+     "firstName": " James",
+     "lastName": "Harden",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "220 lb ",
+     "team-code": "HOU",
+     "origin": "Arizona State"
+    },
+    {
+     "id": 310,
+     "firstName": " Isaiah",
+     "lastName": "Hartenstein",
+     "position": "F\/C",
+     "height": "7 ft 1 in ",
+     "weight": "249 lb ",
+     "team-code": "HOU",
+     "origin": "Germany"
+    },
+    {
+     "id": 311,
+     "firstName": " Brandon ",
+     "lastName": "Knight",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "195 lb ",
+     "team-code": "HOU",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 312,
+     "firstName": "N\/A",
+     "lastName": "Nene",
+     "position": "F\/C",
+     "height": "6 ft 11 in",
+     "weight": "250 lb ",
+     "team-code": "HOU",
+     "origin": "Brazil"
+    },
+    {
+     "id": 313,
+     "firstName": " Chris",
+     "lastName": "Paul",
+     "position": "G",
+     "height": "6 ft 0 in ",
+     "weight": "175 lb ",
+     "team-code": "HOU",
+     "origin": "Wake Forest"
+    },
+    {
+     "id": 314,
+     "firstName": " P. J.",
+     "lastName": "Tucker",
+     "position": "F",
+     "height": "6 ft 6 in ",
+     "weight": "245 lb ",
+     "team-code": "HOU",
+     "origin": "Texas"
+    },
+    {
+     "id": 315,
+     "firstName": "N\/A",
+     "lastName": "Qi",
+     "position": "F\/C",
+     "height": " Zhou",
+     "weight": " 7 ft 1 in",
+     "team-code": "HOU",
+     "origin": "1996â€“01â€“16"
+    },
+    {
+     "id": 316,
+     "firstName": " Kyle",
+     "lastName": "Anderson",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "230 lb ",
+     "team-code": "MEM",
+     "origin": "UCLA"
+    },
+    {
+     "id": 317,
+     "firstName": " Dillon",
+     "lastName": "Brooks",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "220 lb ",
+     "team-code": "MEM",
+     "origin": "Oregon"
+    },
+    {
+     "id": 318,
+     "firstName": " MarShon",
+     "lastName": "Brooks",
+     "position": "G\/F",
+     "height": "6 ft 5 in ",
+     "weight": "200 lb ",
+     "team-code": "MEM",
+     "origin": "Providence"
+    },
+    {
+     "id": 319,
+     "firstName": " Jevon",
+     "lastName": "Carter",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "196 lb ",
+     "team-code": "MEM",
+     "origin": "West Virginia"
+    },
+    {
+     "id": 320,
+     "firstName": " Omri",
+     "lastName": "Casspi",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "225 lb ",
+     "team-code": "MEM",
+     "origin": "Israel"
+    },
+    {
+     "id": 321,
+     "firstName": " Mike",
+     "lastName": "Conley",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "175 lb ",
+     "team-code": "MEM",
+     "origin": "Ohio State"
+    },
+    {
+     "id": 322,
+     "firstName": " Markel",
+     "lastName": "Crawford",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "209 lb ",
+     "team-code": "MEM",
+     "origin": "Mississippi"
+    },
+    {
+     "id": 323,
+     "firstName": " Marc",
+     "lastName": "Gasol",
+     "position": "C",
+     "height": "7 ft 1 in ",
+     "weight": "255 lb ",
+     "team-code": "MEM",
+     "origin": "Spain"
+    },
+    {
+     "id": 324,
+     "firstName": " Brandon",
+     "lastName": "Goodwin",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "180 lb ",
+     "team-code": "MEM",
+     "origin": "Florida Gulf Coast"
+    },
+    {
+     "id": 325,
+     "firstName": " JaMychal",
+     "lastName": "Green",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "227 lb ",
+     "team-code": "MEM",
+     "origin": "Alabama"
+    },
+    {
+     "id": 326,
+     "firstName": " Andrew",
+     "lastName": "Harrison",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "213 lb ",
+     "team-code": "MEM",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 327,
+     "firstName": " Jaren",
+     "lastName": "Jackson",
+     "position": "F",
+     "height": "6 ft 11 in",
+     "weight": "242 lb ",
+     "team-code": "MEM",
+     "origin": "Michigan State"
+    },
+    {
+     "id": 328,
+     "firstName": " Shelvin",
+     "lastName": "Mack",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "203 lb ",
+     "team-code": "MEM",
+     "origin": "Butler"
+    },
+    {
+     "id": 329,
+     "firstName": " Doral",
+     "lastName": "Moore",
+     "position": "C",
+     "height": "7 ft 1 in ",
+     "weight": "265 lb ",
+     "team-code": "MEM",
+     "origin": "Wake Forest"
+    },
+    {
+     "id": 330,
+     "firstName": " Chandler",
+     "lastName": "Parsons",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "230 lb ",
+     "team-code": "MEM",
+     "origin": "Florida"
+    },
+    {
+     "id": 331,
+     "firstName": " Ivan",
+     "lastName": "Rabb",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "220 lb ",
+     "team-code": "MEM",
+     "origin": "California"
+    },
+    {
+     "id": 332,
+     "firstName": " Wayne",
+     "lastName": "Selden",
+     "position": "G\/F",
+     "height": "6 ft 5 in ",
+     "weight": "230 lb ",
+     "team-code": "MEM",
+     "origin": "Kansas"
+    },
+    {
+     "id": 333,
+     "firstName": " Garrett",
+     "lastName": "Temple",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "195 lb ",
+     "team-code": "MEM",
+     "origin": "LSU"
+    },
+    {
+     "id": 334,
+     "firstName": " Yuta ",
+     "lastName": "Watanabe",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "205 lb ",
+     "team-code": "MEM",
+     "origin": "George Washington"
+    },
+    {
+     "id": 335,
+     "firstName": " Alexis",
+     "lastName": "Ajinca",
+     "position": "C",
+     "height": "7 ft 2 in ",
+     "weight": "248 lb ",
+     "team-code": "NOP",
+     "origin": "INSEP (FRA)"
+    },
+    {
+     "id": 336,
+     "firstName": " Trevon ",
+     "lastName": "Bluiett",
+     "position": "G\/F",
+     "height": "6 ft 5 in ",
+     "weight": "215 lb ",
+     "team-code": "NOP",
+     "origin": "Xavier"
+    },
+    {
+     "id": 337,
+     "firstName": " Ian",
+     "lastName": "Clark",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "175 lb ",
+     "team-code": "NOP",
+     "origin": "Belmont"
+    },
+    {
+     "id": 338,
+     "firstName": " Anthony",
+     "lastName": "Davis",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "253 lb ",
+     "team-code": "NOP",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 339,
+     "firstName": " Cheick",
+     "lastName": "Diallo",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "220 lb ",
+     "team-code": "NOP",
+     "origin": "Kansas"
+    },
+    {
+     "id": 340,
+     "firstName": " Garlon",
+     "lastName": "Green",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "215 lb ",
+     "team-code": "NOP",
+     "origin": "TCU"
+    },
+    {
+     "id": 341,
+     "firstName": " Solomon",
+     "lastName": "Hill",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "225 lb ",
+     "team-code": "NOP",
+     "origin": "Arizona"
+    },
+    {
+     "id": 342,
+     "firstName": " Jrue",
+     "lastName": "Holiday",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "205 lb ",
+     "team-code": "NOP",
+     "origin": "UCLA"
+    },
+    {
+     "id": 343,
+     "firstName": " Frank",
+     "lastName": "Jackson",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "205 lb ",
+     "team-code": "NOP",
+     "origin": "Duke"
+    },
+    {
+     "id": 344,
+     "firstName": " Darius",
+     "lastName": "Miller",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "225 lb ",
+     "team-code": "NOP",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 345,
+     "firstName": " Nikola",
+     "lastName": "Mirotic",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "238 lb ",
+     "team-code": "NOP",
+     "origin": "Spain"
+    },
+    {
+     "id": 346,
+     "firstName": " E'Twaun",
+     "lastName": "Moore",
+     "position": "G\/F",
+     "height": "6 ft 4 in ",
+     "weight": "191 lb ",
+     "team-code": "NOP",
+     "origin": "Purdue"
+    },
+    {
+     "id": 347,
+     "firstName": " Darius",
+     "lastName": "Morris",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "195 lb ",
+     "team-code": "NOP",
+     "origin": "Michigan"
+    },
+    {
+     "id": 348,
+     "firstName": " Jahlil",
+     "lastName": "Okafor",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "275 lb ",
+     "team-code": "NOP",
+     "origin": "Duke"
+    },
+    {
+     "id": 349,
+     "firstName": " Elfrid",
+     "lastName": "Payton",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "185 lb ",
+     "team-code": "NOP",
+     "origin": "Louisiana"
+    },
+    {
+     "id": 350,
+     "firstName": " Julius",
+     "lastName": "Randle",
+     "position": "F\/C",
+     "height": "6 ft 9 in ",
+     "weight": "250 lb ",
+     "team-code": "NOP",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 351,
+     "firstName": " Kenrich",
+     "lastName": "Williams",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "210 lb ",
+     "team-code": "NOP",
+     "origin": "TCU"
+    },
+    {
+     "id": 352,
+     "firstName": " Troy",
+     "lastName": "Williams",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "218 lb ",
+     "team-code": "NOP",
+     "origin": "Indiana"
+    },
+    {
+     "id": 353,
+     "firstName": " LaMarcus",
+     "lastName": "Aldridge",
+     "position": "F",
+     "height": "6 ft 11 in",
+     "weight": "260 lb ",
+     "team-code": "SAS",
+     "origin": "Texas"
+    },
+    {
+     "id": 354,
+     "firstName": " Marco",
+     "lastName": "Belinelli",
+     "position": "G\/F",
+     "height": "6 ft 5 in ",
+     "weight": "210 lb ",
+     "team-code": "SAS",
+     "origin": "Italy"
+    },
+    {
+     "id": 355,
+     "firstName": " Davis",
+     "lastName": "Bertans",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "210 lb ",
+     "team-code": "SAS",
+     "origin": "Latvia"
+    },
+    {
+     "id": 356,
+     "firstName": " Dante",
+     "lastName": "Cunningham",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "230 lb ",
+     "team-code": "SAS",
+     "origin": "Villanova"
+    },
+    {
+     "id": 357,
+     "firstName": " DeMar",
+     "lastName": "DeRozan",
+     "position": "G",
+     "height": "6 ft 7 in ",
+     "weight": "220 lb ",
+     "team-code": "SAS",
+     "origin": "Southern California"
+    },
+    {
+     "id": 358,
+     "firstName": " Bryn",
+     "lastName": "Forbes",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "190 lb ",
+     "team-code": "SAS",
+     "origin": "Michigan State"
+    },
+    {
+     "id": 359,
+     "firstName": " Pau",
+     "lastName": "Gasol",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "250 lb ",
+     "team-code": "SAS",
+     "origin": "Spain"
+    },
+    {
+     "id": 360,
+     "firstName": " Rudy",
+     "lastName": "Gay",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "230 lb ",
+     "team-code": "SAS",
+     "origin": "Connecticut"
+    },
+    {
+     "id": 361,
+     "firstName": " Chimezie",
+     "lastName": "Metu",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "219 lb ",
+     "team-code": "SAS",
+     "origin": "Southern California"
+    },
+    {
+     "id": 362,
+     "firstName": " Patty",
+     "lastName": "Mills",
+     "position": "G",
+     "height": "6 ft 0 in ",
+     "weight": "185 lb ",
+     "team-code": "SAS",
+     "origin": "Saint Mary's"
+    },
+    {
+     "id": 363,
+     "firstName": " Dejounte",
+     "lastName": "Murray",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "170 lb ",
+     "team-code": "SAS",
+     "origin": "Washington"
+    },
+    {
+     "id": 364,
+     "firstName": " Jakob",
+     "lastName": "Poltl",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "230 lb ",
+     "team-code": "SAS",
+     "origin": "Utah"
+    },
+    {
+     "id": 365,
+     "firstName": " Quincy",
+     "lastName": "Pondexter",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "225 lb ",
+     "team-code": "SAS",
+     "origin": "Washington"
+    },
+    {
+     "id": 366,
+     "firstName": " Lonnie",
+     "lastName": "Walker",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "196 lb ",
+     "team-code": "SAS",
+     "origin": "Miami (FL)"
+    },
+    {
+     "id": 367,
+     "firstName": " Derrick",
+     "lastName": "White",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "190 lb ",
+     "team-code": "SAS",
+     "origin": "Colorado"
+    },
+    {
+     "id": 368,
+     "firstName": " DeVaughn ",
+     "lastName": "Akoon-Purcell",
+     "position": "G\/F",
+     "height": "6 ft 5 in ",
+     "weight": "201 lb ",
+     "team-code": "DEN",
+     "origin": "Illinois State"
+    },
+    {
+     "id": 369,
+     "firstName": " Will",
+     "lastName": "Barton",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "190 lb ",
+     "team-code": "DEN",
+     "origin": "Memphis"
+    },
+    {
+     "id": 370,
+     "firstName": " Malik",
+     "lastName": "Beasley",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "196 lb ",
+     "team-code": "DEN",
+     "origin": "Florida State"
+    },
+    {
+     "id": 371,
+     "firstName": " Torrey",
+     "lastName": "Craig",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "215 lb ",
+     "team-code": "DEN",
+     "origin": "USC Upstate"
+    },
+    {
+     "id": 372,
+     "firstName": " Gary",
+     "lastName": "Harris",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "210 lb ",
+     "team-code": "DEN",
+     "origin": "Michigan State"
+    },
+    {
+     "id": 373,
+     "firstName": " Juan",
+     "lastName": "Hernangomez",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "230 lb ",
+     "team-code": "DEN",
+     "origin": "Spain"
+    },
+    {
+     "id": 374,
+     "firstName": " Nikola",
+     "lastName": "Jokic",
+     "position": "C",
+     "height": "6 ft 10 in",
+     "weight": "250 lb ",
+     "team-code": "DEN",
+     "origin": "Serbia"
+    },
+    {
+     "id": 375,
+     "firstName": " Tyler",
+     "lastName": "Lydon",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "220 lb ",
+     "team-code": "DEN",
+     "origin": "Syracuse"
+    },
+    {
+     "id": 376,
+     "firstName": " Trey",
+     "lastName": "Lyles",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "234 lb ",
+     "team-code": "DEN",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 377,
+     "firstName": " Paul",
+     "lastName": "Millsap",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "246 lb ",
+     "team-code": "DEN",
+     "origin": "Louisiana Tech"
+    },
+    {
+     "id": 378,
+     "firstName": " Monte",
+     "lastName": "Morris",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "175 lb ",
+     "team-code": "DEN",
+     "origin": "Iowa State"
+    },
+    {
+     "id": 379,
+     "firstName": " Jamal",
+     "lastName": "Murray",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "207 lb ",
+     "team-code": "DEN",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 380,
+     "firstName": " Mason",
+     "lastName": "Plumlee",
+     "position": "F\/C",
+     "height": "6 ft 11 in",
+     "weight": "255 lb ",
+     "team-code": "DEN",
+     "origin": "Duke"
+    },
+    {
+     "id": 381,
+     "firstName": " Michael",
+     "lastName": "Porter",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "215 lb ",
+     "team-code": "DEN",
+     "origin": "Missouri"
+    },
+    {
+     "id": 382,
+     "firstName": " Emanuel",
+     "lastName": "Terry",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "220 lb ",
+     "team-code": "DEN",
+     "origin": "Lincoln Memorial"
+    },
+    {
+     "id": 383,
+     "firstName": " Isaiah",
+     "lastName": "Thomas",
+     "position": "G",
+     "height": "5 ft 9 in ",
+     "weight": "185 lb ",
+     "team-code": "DEN",
+     "origin": "Washington"
+    },
+    {
+     "id": 384,
+     "firstName": " Jarred",
+     "lastName": "Vanderbilt",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "214 lb ",
+     "team-code": "DEN",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 385,
+     "firstName": " Thomas ",
+     "lastName": "Welsh",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "255 lb ",
+     "team-code": "DEN",
+     "origin": "UCLA"
+    },
+    {
+     "id": 386,
+     "firstName": " Keita",
+     "lastName": "Bates-Diop",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "223 lb ",
+     "team-code": "MIN",
+     "origin": "Ohio State"
+    },
+    {
+     "id": 387,
+     "firstName": " Jimmy",
+     "lastName": "Butler",
+     "position": "G",
+     "height": "6 ft 8 in ",
+     "weight": "236 lb ",
+     "team-code": "MIN",
+     "origin": "Marquette"
+    },
+    {
+     "id": 388,
+     "firstName": " Luol",
+     "lastName": "Deng",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "220 lb ",
+     "team-code": "MIN",
+     "origin": "Duke"
+    },
+    {
+     "id": 389,
+     "firstName": " Gorgui",
+     "lastName": "Dieng",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "251 lb ",
+     "team-code": "MIN",
+     "origin": "Louisville"
+    },
+    {
+     "id": 390,
+     "firstName": " Taj",
+     "lastName": "Gibson",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "235 lb ",
+     "team-code": "MIN",
+     "origin": "Southern California"
+    },
+    {
+     "id": 391,
+     "firstName": " Tyus",
+     "lastName": "Jones",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "184 lb ",
+     "team-code": "MIN",
+     "origin": "Duke"
+    },
+    {
+     "id": 392,
+     "firstName": " James",
+     "lastName": "Nunnally",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "205 lb ",
+     "team-code": "MIN",
+     "origin": "UC Santa Barbara"
+    },
+    {
+     "id": 393,
+     "firstName": " Josh",
+     "lastName": "Okogie",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "211 lb ",
+     "team-code": "MIN",
+     "origin": "Georgia Tech"
+    },
+    {
+     "id": 394,
+     "firstName": " Justin ",
+     "lastName": "Patton",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "236 lb ",
+     "team-code": "MIN",
+     "origin": "Creighton"
+    },
+    {
+     "id": 395,
+     "firstName": " Derrick",
+     "lastName": "Rose",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "190 lb ",
+     "team-code": "MIN",
+     "origin": "Memphis"
+    },
+    {
+     "id": 396,
+     "firstName": " Jeff",
+     "lastName": "Teague",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "189 lb ",
+     "team-code": "MIN",
+     "origin": "Wake Forest"
+    },
+    {
+     "id": 397,
+     "firstName": " Jared ",
+     "lastName": "Terrell",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "215 lb ",
+     "team-code": "MIN",
+     "origin": "Rhode Island"
+    },
+    {
+     "id": 398,
+     "firstName": " Anthony",
+     "lastName": "Tolliver",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "240 lb ",
+     "team-code": "MIN",
+     "origin": "Creighton"
+    },
+    {
+     "id": 399,
+     "firstName": " Karl-Anthony",
+     "lastName": "Towns",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "248 lb ",
+     "team-code": "MIN",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 400,
+     "firstName": " Andrew",
+     "lastName": "Wiggins",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "202 lb ",
+     "team-code": "MIN",
+     "origin": "Kansas"
+    },
+    {
+     "id": 401,
+     "firstName": " C. J. ",
+     "lastName": "Williams",
+     "position": "G\/F",
+     "height": "6 ft 5 in ",
+     "weight": "230 lb ",
+     "team-code": "MIN",
+     "origin": "North Carolina State"
+    },
+    {
+     "id": 402,
+     "firstName": " Alex",
+     "lastName": "Abrines",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "190 lb ",
+     "team-code": "OKC",
+     "origin": "Spain"
+    },
+    {
+     "id": 403,
+     "firstName": " Steven",
+     "lastName": "Adams",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "255 lb ",
+     "team-code": "OKC",
+     "origin": "Pittsburgh"
+    },
+    {
+     "id": 404,
+     "firstName": " Deonte ",
+     "lastName": "Burton",
+     "position": "G\/F",
+     "height": "6 ft 5 in ",
+     "weight": "250 lb ",
+     "team-code": "OKC",
+     "origin": "Iowa State"
+    },
+    {
+     "id": 405,
+     "firstName": " Tyler ",
+     "lastName": "Davis",
+     "position": "C",
+     "height": "6 ft 10 in",
+     "weight": "266 lb ",
+     "team-code": "OKC",
+     "origin": "Texas A&amp;M"
+    },
+    {
+     "id": 406,
+     "firstName": " Hamidou",
+     "lastName": "Diallo",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "198 lb ",
+     "team-code": "OKC",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 407,
+     "firstName": " Raymond",
+     "lastName": "Felton",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "205 lb ",
+     "team-code": "OKC",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 408,
+     "firstName": " Terrance",
+     "lastName": "Ferguson",
+     "position": "G",
+     "height": "6 ft 7 in ",
+     "weight": "184 lb ",
+     "team-code": "OKC",
+     "origin": "Advanced Prep International (TX)"
+    },
+    {
+     "id": 409,
+     "firstName": " Paul",
+     "lastName": "George",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "220 lb ",
+     "team-code": "OKC",
+     "origin": "Fresno State"
+    },
+    {
+     "id": 410,
+     "firstName": " Jerami",
+     "lastName": "Grant",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "220 lb ",
+     "team-code": "OKC",
+     "origin": "Syracuse"
+    },
+    {
+     "id": 411,
+     "firstName": " Kevin (DP)",
+     "lastName": "Hervey",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "211 lb ",
+     "team-code": "OKC",
+     "origin": "Texasâ€“Arlington"
+    },
+    {
+     "id": 412,
+     "firstName": " Timothe",
+     "lastName": "Luwawu-Cabarrot",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "200 lb ",
+     "team-code": "OKC",
+     "origin": "France"
+    },
+    {
+     "id": 413,
+     "firstName": " Abdel",
+     "lastName": "Nader",
+     "position": "F",
+     "height": "6 ft 6 in ",
+     "weight": "230 lb ",
+     "team-code": "OKC",
+     "origin": "Iowa State"
+    },
+    {
+     "id": 414,
+     "firstName": " Nerlens",
+     "lastName": "Noel",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "220 lb ",
+     "team-code": "OKC",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 415,
+     "firstName": " Patrick",
+     "lastName": "Patterson",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "230 lb ",
+     "team-code": "OKC",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 416,
+     "firstName": " Andre",
+     "lastName": "Roberson",
+     "position": "G",
+     "height": "6 ft 7 in ",
+     "weight": "210 lb ",
+     "team-code": "OKC",
+     "origin": "Colorado"
+    },
+    {
+     "id": 417,
+     "firstName": " Dennis",
+     "lastName": "Schroder",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "172 lb ",
+     "team-code": "OKC",
+     "origin": "Germany"
+    },
+    {
+     "id": 418,
+     "firstName": " Russell",
+     "lastName": "Westbrook",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "200 lb ",
+     "team-code": "OKC",
+     "origin": "UCLA"
+    },
+    {
+     "id": 419,
+     "firstName": " Al-Farouq",
+     "lastName": "Aminu",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "220 lb ",
+     "team-code": "POR",
+     "origin": "Wake Forest"
+    },
+    {
+     "id": 420,
+     "firstName": " Wade",
+     "lastName": "Baldwin",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "202 lb ",
+     "team-code": "POR",
+     "origin": "Vanderbilt"
+    },
+    {
+     "id": 421,
+     "firstName": " Zach",
+     "lastName": "Collins",
+     "position": "F\/C",
+     "height": "7 ft 0 in ",
+     "weight": "230 lb ",
+     "team-code": "POR",
+     "origin": "Gonzaga"
+    },
+    {
+     "id": 422,
+     "firstName": " Seth",
+     "lastName": "Curry",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "185 lb ",
+     "team-code": "POR",
+     "origin": "Duke"
+    },
+    {
+     "id": 423,
+     "firstName": " Maurice",
+     "lastName": "Harkless",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "220 lb ",
+     "team-code": "POR",
+     "origin": "St. John's"
+    },
+    {
+     "id": 424,
+     "firstName": " Jake",
+     "lastName": "Layman",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "210 lb ",
+     "team-code": "POR",
+     "origin": "Maryland"
+    },
+    {
+     "id": 425,
+     "firstName": " Meyers",
+     "lastName": "Leonard",
+     "position": "C",
+     "height": "7 ft 1 in ",
+     "weight": "255 lb ",
+     "team-code": "POR",
+     "origin": "Illinois"
+    },
+    {
+     "id": 426,
+     "firstName": " Damian",
+     "lastName": "Lillard",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "195 lb ",
+     "team-code": "POR",
+     "origin": "Weber State"
+    },
+    {
+     "id": 427,
+     "firstName": " C. J.",
+     "lastName": "McCollum",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "190 lb ",
+     "team-code": "POR",
+     "origin": "Lehigh"
+    },
+    {
+     "id": 428,
+     "firstName": " Cameron",
+     "lastName": "Oliver",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "225 lb ",
+     "team-code": "POR",
+     "origin": "Nevada"
+    },
+    {
+     "id": 429,
+     "firstName": " Chinanu",
+     "lastName": "Onuaku",
+     "position": "C",
+     "height": "6 ft 10 in",
+     "weight": "245 lb ",
+     "team-code": "POR",
+     "origin": "Louisville"
+    },
+    {
+     "id": 430,
+     "firstName": " Jusuf",
+     "lastName": "Nurkic",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "280 lb ",
+     "team-code": "POR",
+     "origin": "Bosnia and Herzegovina"
+    },
+    {
+     "id": 431,
+     "firstName": " Gary",
+     "lastName": "Payton",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "195 lb ",
+     "team-code": "POR",
+     "origin": "Oregon State"
+    },
+    {
+     "id": 432,
+     "firstName": " Anfernee",
+     "lastName": "Simons",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "183 lb ",
+     "team-code": "POR",
+     "origin": "IMG Academy"
+    },
+    {
+     "id": 433,
+     "firstName": " Nik",
+     "lastName": "Stauskas",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "205 lb ",
+     "team-code": "POR",
+     "origin": "Michigan"
+    },
+    {
+     "id": 434,
+     "firstName": " Caleb",
+     "lastName": "Swanigan",
+     "position": "F\/C",
+     "height": "6 ft 8 in ",
+     "weight": "250 lb ",
+     "team-code": "POR",
+     "origin": "Purdue"
+    },
+    {
+     "id": 435,
+     "firstName": " Gary",
+     "lastName": "Trent",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "204 lb ",
+     "team-code": "POR",
+     "origin": "Duke"
+    },
+    {
+     "id": 436,
+     "firstName": " Evan",
+     "lastName": "Turner",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "220 lb ",
+     "team-code": "POR",
+     "origin": "Ohio State"
+    },
+    {
+     "id": 437,
+     "firstName": " Grayson",
+     "lastName": "Allen",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "198 lb ",
+     "team-code": "UTA",
+     "origin": "Duke"
+    },
+    {
+     "id": 438,
+     "firstName": " Tony",
+     "lastName": "Bradley",
+     "position": "C",
+     "height": "6 ft 10 in",
+     "weight": "248 lb ",
+     "team-code": "UTA",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 439,
+     "firstName": " Alec",
+     "lastName": "Burks",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "214 lb ",
+     "team-code": "UTA",
+     "origin": "Colorado"
+    },
+    {
+     "id": 440,
+     "firstName": " Tyler ",
+     "lastName": "Cavanaugh",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "238 lb ",
+     "team-code": "UTA",
+     "origin": "George Washington"
+    },
+    {
+     "id": 441,
+     "firstName": " Jae",
+     "lastName": "Crowder",
+     "position": "F",
+     "height": "6 ft 6 in ",
+     "weight": "235 lb ",
+     "team-code": "UTA",
+     "origin": "Marquette"
+    },
+    {
+     "id": 442,
+     "firstName": " Dante",
+     "lastName": "Exum",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "190 lb ",
+     "team-code": "UTA",
+     "origin": "Australia"
+    },
+    {
+     "id": 443,
+     "firstName": " Derrick",
+     "lastName": "Favors",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "265 lb ",
+     "team-code": "UTA",
+     "origin": "Georgia Tech"
+    },
+    {
+     "id": 444,
+     "firstName": " Rudy",
+     "lastName": "Gobert",
+     "position": "C",
+     "height": "7 ft 1 in ",
+     "weight": "245 lb ",
+     "team-code": "UTA",
+     "origin": "France"
+    },
+    {
+     "id": 445,
+     "firstName": " Isaac",
+     "lastName": "Haas",
+     "position": "C",
+     "height": "7 ft 2 in ",
+     "weight": "290 lb ",
+     "team-code": "UTA",
+     "origin": "Purdue"
+    },
+    {
+     "id": 446,
+     "firstName": " Joe",
+     "lastName": "Ingles",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "226 lb ",
+     "team-code": "UTA",
+     "origin": "Australia"
+    },
+    {
+     "id": 447,
+     "firstName": " Trey",
+     "lastName": "Lewis",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "185 lb ",
+     "team-code": "UTA",
+     "origin": "Louisville"
+    },
+    {
+     "id": 448,
+     "firstName": " Jairus",
+     "lastName": "Lyles",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "175 lb ",
+     "team-code": "UTA",
+     "origin": "UMBC"
+    },
+    {
+     "id": 449,
+     "firstName": " Donovan",
+     "lastName": "Mitchell",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "215 lb ",
+     "team-code": "UTA",
+     "origin": "Louisville"
+    },
+    {
+     "id": 450,
+     "firstName": " Naz ",
+     "lastName": "Mitrou-Long",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "218 lb ",
+     "team-code": "UTA",
+     "origin": "Iowa State"
+    },
+    {
+     "id": 451,
+     "firstName": " Raul",
+     "lastName": "Neto",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "179 lb ",
+     "team-code": "UTA",
+     "origin": "Brazil"
+    },
+    {
+     "id": 452,
+     "firstName": " Georges",
+     "lastName": "Niang",
+     "position": "F",
+     "height": "6 ft 6 in ",
+     "weight": "231 lb ",
+     "team-code": "UTA",
+     "origin": "Iowa State"
+    },
+    {
+     "id": 453,
+     "firstName": " Royce",
+     "lastName": "O'Neale",
+     "position": "F",
+     "height": "6 ft 6 in ",
+     "weight": "226 lb ",
+     "team-code": "UTA",
+     "origin": "Baylor"
+    },
+    {
+     "id": 454,
+     "firstName": " Ricky",
+     "lastName": "Rubio",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "190 lb ",
+     "team-code": "UTA",
+     "origin": "Spain"
+    },
+    {
+     "id": 455,
+     "firstName": " Thabo",
+     "lastName": "Sefolosha",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "220 lb ",
+     "team-code": "UTA",
+     "origin": "Switzerland"
+    },
+    {
+     "id": 456,
+     "firstName": " Ekpe",
+     "lastName": "Udoh",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "245 lb ",
+     "team-code": "UTA",
+     "origin": "Baylor"
+    },
+    {
+     "id": 457,
+     "firstName": " Jordan",
+     "lastName": "Bell",
+     "position": "F\/C",
+     "height": "6 ft 9 in ",
+     "weight": "224 lb ",
+     "team-code": "GSW",
+     "origin": "Oregon"
+    },
+    {
+     "id": 458,
+     "firstName": " Quinn",
+     "lastName": "Cook",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "179 lb ",
+     "team-code": "GSW",
+     "origin": "Duke"
+    },
+    {
+     "id": 459,
+     "firstName": " DeMarcus ",
+     "lastName": "Cousins",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "270 lb ",
+     "team-code": "GSW",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 460,
+     "firstName": " Stephen",
+     "lastName": "Curry",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "190 lb ",
+     "team-code": "GSW",
+     "origin": "Davidson"
+    },
+    {
+     "id": 461,
+     "firstName": " Marcus",
+     "lastName": "Derrickson",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "249 lb ",
+     "team-code": "GSW",
+     "origin": "Georgetown"
+    },
+    {
+     "id": 462,
+     "firstName": " Kevin",
+     "lastName": "Durant",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "240 lb ",
+     "team-code": "GSW",
+     "origin": "Texas"
+    },
+    {
+     "id": 463,
+     "firstName": " Jacob",
+     "lastName": "Evans",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "199 lb ",
+     "team-code": "GSW",
+     "origin": "Cincinnati"
+    },
+    {
+     "id": 464,
+     "firstName": " Draymond",
+     "lastName": "Green",
+     "position": "F",
+     "height": "6 ft 7 in ",
+     "weight": "230 lb ",
+     "team-code": "GSW",
+     "origin": "Michigan State"
+    },
+    {
+     "id": 465,
+     "firstName": " Danuel",
+     "lastName": "House",
+     "position": "G",
+     "height": "6 ft 7 in ",
+     "weight": "207 lb ",
+     "team-code": "GSW",
+     "origin": "Texas A&amp;M"
+    },
+    {
+     "id": 466,
+     "firstName": " Andre",
+     "lastName": "Iguodala",
+     "position": "G\/F",
+     "height": "6 ft 6 in ",
+     "weight": "215 lb ",
+     "team-code": "GSW",
+     "origin": "Arizona"
+    },
+    {
+     "id": 467,
+     "firstName": " Jonas",
+     "lastName": "Jerebko",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "231 lb ",
+     "team-code": "GSW",
+     "origin": "Buffalo"
+    },
+    {
+     "id": 468,
+     "firstName": " Damian",
+     "lastName": "Jones",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "245 lb ",
+     "team-code": "GSW",
+     "origin": "Vanderbilt"
+    },
+    {
+     "id": 469,
+     "firstName": " Damion ",
+     "lastName": "Lee",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "210 lb ",
+     "team-code": "GSW",
+     "origin": "Louisville"
+    },
+    {
+     "id": 470,
+     "firstName": " Shaun",
+     "lastName": "Livingston",
+     "position": "G",
+     "height": "6 ft 7 in ",
+     "weight": "192 lb ",
+     "team-code": "GSW",
+     "origin": "Peoria Central HS (IL)"
+    },
+    {
+     "id": 471,
+     "firstName": " Kevon",
+     "lastName": "Looney",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "220 lb ",
+     "team-code": "GSW",
+     "origin": "UCLA"
+    },
+    {
+     "id": 472,
+     "firstName": " Alfonzo",
+     "lastName": "McKinnie",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "215 lb ",
+     "team-code": "GSW",
+     "origin": "Green Bay"
+    },
+    {
+     "id": 473,
+     "firstName": " Kendrick",
+     "lastName": "Nunn",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "193 lb ",
+     "team-code": "GSW",
+     "origin": "Oakland"
+    },
+    {
+     "id": 474,
+     "firstName": " Klay",
+     "lastName": "Thompson",
+     "position": "G",
+     "height": "6 ft 7 in ",
+     "weight": "215 lb ",
+     "team-code": "GSW",
+     "origin": "Washington State"
+    },
+    {
+     "id": 475,
+     "firstName": " Patrick ",
+     "lastName": "Beverley",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "185 lb ",
+     "team-code": "LAC",
+     "origin": "Arkansas"
+    },
+    {
+     "id": 476,
+     "firstName": " Avery",
+     "lastName": "Bradley",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "180 lb ",
+     "team-code": "LAC",
+     "origin": "Texas"
+    },
+    {
+     "id": 477,
+     "firstName": " Angel ",
+     "lastName": "Delgado",
+     "position": "C",
+     "height": "6 ft 10 in",
+     "weight": "245 lb ",
+     "team-code": "LAC",
+     "origin": "Seton Hall"
+    },
+    {
+     "id": 478,
+     "firstName": " Jawun",
+     "lastName": "Evans",
+     "position": "G",
+     "height": "6 ft 0 in ",
+     "weight": "190 lb ",
+     "team-code": "LAC",
+     "origin": "Oklahoma State"
+    },
+    {
+     "id": 479,
+     "firstName": " Danilo",
+     "lastName": "Gallinari",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "225 lb ",
+     "team-code": "LAC",
+     "origin": "Italy"
+    },
+    {
+     "id": 480,
+     "firstName": " Shai",
+     "lastName": "Gilgeous-Alexander",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "180 lb ",
+     "team-code": "LAC",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 481,
+     "firstName": " Marcin",
+     "lastName": "Gortat",
+     "position": "C",
+     "height": "6 ft 11 in",
+     "weight": "240 lb ",
+     "team-code": "LAC",
+     "origin": "Poland"
+    },
+    {
+     "id": 482,
+     "firstName": " Montrezl",
+     "lastName": "Harrell",
+     "position": "F\/C",
+     "height": "6 ft 8 in ",
+     "weight": "240 lb ",
+     "team-code": "LAC",
+     "origin": "Louisville"
+    },
+    {
+     "id": 483,
+     "firstName": " Tobias",
+     "lastName": "Harris",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "235 lb ",
+     "team-code": "LAC",
+     "origin": "Tennessee"
+    },
+    {
+     "id": 484,
+     "firstName": " Wesley",
+     "lastName": "Johnson",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "215 lb ",
+     "team-code": "LAC",
+     "origin": "Syracuse"
+    },
+    {
+     "id": 485,
+     "firstName": " Boban",
+     "lastName": "MarjanoviÄ‡",
+     "position": "C",
+     "height": "7 ft 3 in ",
+     "weight": "290 lb ",
+     "team-code": "LAC",
+     "origin": "Serbia"
+    },
+    {
+     "id": 486,
+     "firstName": " Luc",
+     "lastName": "Mbah a Moute",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "230 lb ",
+     "team-code": "LAC",
+     "origin": "UCLA"
+    },
+    {
+     "id": 487,
+     "firstName": " Johnathan ",
+     "lastName": "Motley",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "230 lb ",
+     "team-code": "LAC",
+     "origin": "Baylor"
+    },
+    {
+     "id": 488,
+     "firstName": " Jerome",
+     "lastName": "Robinson",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "188 lb ",
+     "team-code": "LAC",
+     "origin": "Boston College"
+    },
+    {
+     "id": 489,
+     "firstName": " Mike",
+     "lastName": "Scott",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "237 lb ",
+     "team-code": "LAC",
+     "origin": "Virginia"
+    },
+    {
+     "id": 490,
+     "firstName": " Milos",
+     "lastName": "Teodosic",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "196 lb ",
+     "team-code": "LAC",
+     "origin": "Serbia"
+    },
+    {
+     "id": 491,
+     "firstName": " Sindarius",
+     "lastName": "Thornwell",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "215 lb ",
+     "team-code": "LAC",
+     "origin": "South Carolina"
+    },
+    {
+     "id": 492,
+     "firstName": " Tyrone",
+     "lastName": "Wallace",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "198 lb ",
+     "team-code": "LAC",
+     "origin": "California"
+    },
+    {
+     "id": 493,
+     "firstName": " Lou",
+     "lastName": "Williams",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "175 lb ",
+     "team-code": "LAC",
+     "origin": "South Gwinnett HS (GA)"
+    },
+    {
+     "id": 494,
+     "firstName": " Lonzo",
+     "lastName": "Ball",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "190 lb ",
+     "team-code": "LAL",
+     "origin": "UCLA"
+    },
+    {
+     "id": 495,
+     "firstName": " Michael",
+     "lastName": "Beasley",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "235 lb ",
+     "team-code": "LAL",
+     "origin": "Kansas State"
+    },
+    {
+     "id": 496,
+     "firstName": " Joel",
+     "lastName": "Berry",
+     "position": "G",
+     "height": "6 ft 0 in ",
+     "weight": "195 lb ",
+     "team-code": "LAL",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 497,
+     "firstName": " Isaac",
+     "lastName": "Bonga",
+     "position": "G",
+     "height": "6 ft 9 in ",
+     "weight": "203 lb ",
+     "team-code": "LAL",
+     "origin": "Germany"
+    },
+    {
+     "id": 498,
+     "firstName": " Kentavious",
+     "lastName": "Caldwell-Pope",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "205 lb ",
+     "team-code": "LAL",
+     "origin": "Georgia"
+    },
+    {
+     "id": 499,
+     "firstName": " Jeffrey",
+     "lastName": "Carroll",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "220 lb ",
+     "team-code": "LAL",
+     "origin": "Oklahoma State"
+    },
+    {
+     "id": 500,
+     "firstName": " Alex ",
+     "lastName": "Caruso",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "186 lb ",
+     "team-code": "LAL",
+     "origin": "Texas A&amp;M"
+    },
+    {
+     "id": 501,
+     "firstName": " Josh",
+     "lastName": "Hart",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "215 lb ",
+     "team-code": "LAL",
+     "origin": "Villanova"
+    },
+    {
+     "id": 502,
+     "firstName": " Brandon",
+     "lastName": "Ingram",
+     "position": "G\/F",
+     "height": "6 ft 9 in ",
+     "weight": "190 lb ",
+     "team-code": "LAL",
+     "origin": "Duke"
+    },
+    {
+     "id": 503,
+     "firstName": " LeBron",
+     "lastName": "James",
+     "position": "G\/F",
+     "height": "6 ft 8 in ",
+     "weight": "250 lb ",
+     "team-code": "LAL",
+     "origin": "St. Vincentâ€“St. Mary HS (OH)"
+    },
+    {
+     "id": 504,
+     "firstName": " Kyle",
+     "lastName": "Kuzma",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "220 lb ",
+     "team-code": "LAL",
+     "origin": "Utah"
+    },
+    {
+     "id": 505,
+     "firstName": " JaVale",
+     "lastName": "McGee",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "270 lb ",
+     "team-code": "LAL",
+     "origin": "Nevada"
+    },
+    {
+     "id": 506,
+     "firstName": " Svi",
+     "lastName": "Mykhailiuk",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "212 lb ",
+     "team-code": "LAL",
+     "origin": "Kansas"
+    },
+    {
+     "id": 507,
+     "firstName": " Rajon",
+     "lastName": "Rondo",
+     "position": "G",
+     "height": "6 ft 1 in ",
+     "weight": "186 lb ",
+     "team-code": "LAL",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 508,
+     "firstName": " Lance",
+     "lastName": "Stephenson",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "230 lb ",
+     "team-code": "LAL",
+     "origin": "Cincinnati"
+    },
+    {
+     "id": 509,
+     "firstName": " Moritz",
+     "lastName": "Wagner",
+     "position": "F",
+     "height": "7 ft 0 in ",
+     "weight": "241 lb ",
+     "team-code": "LAL",
+     "origin": "Michigan"
+    },
+    {
+     "id": 510,
+     "firstName": " Travis ",
+     "lastName": "Wear",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "225 lb ",
+     "team-code": "LAL",
+     "origin": "UCLA"
+    },
+    {
+     "id": 511,
+     "firstName": " Johnathan",
+     "lastName": "Williams",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "228 lb ",
+     "team-code": "LAL",
+     "origin": "Gonzaga"
+    },
+    {
+     "id": 512,
+     "firstName": " Ivica",
+     "lastName": "Zubac",
+     "position": "C",
+     "height": "7 ft 1 in ",
+     "weight": "240 lb ",
+     "team-code": "LAL",
+     "origin": "Croatia"
+    },
+    {
+     "id": 513,
+     "firstName": " Ryan",
+     "lastName": "Anderson",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "240 lb ",
+     "team-code": "PHO",
+     "origin": "California"
+    },
+    {
+     "id": 514,
+     "firstName": " Trevor",
+     "lastName": "Ariza",
+     "position": "G\/F",
+     "height": "6 ft 8 in ",
+     "weight": "215 lb ",
+     "team-code": "PHO",
+     "origin": "UCLA"
+    },
+    {
+     "id": 515,
+     "firstName": " Darrell",
+     "lastName": "Arthur",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "235 lb ",
+     "team-code": "PHO",
+     "origin": "Kansas"
+    },
+    {
+     "id": 516,
+     "firstName": " Deandre",
+     "lastName": "Ayton",
+     "position": "F\/C",
+     "height": "7 ft 1 in ",
+     "weight": "250 lb ",
+     "team-code": "PHO",
+     "origin": "Arizona"
+    },
+    {
+     "id": 517,
+     "firstName": " Dragan",
+     "lastName": "Bender",
+     "position": "F",
+     "height": "7 ft 1 in ",
+     "weight": "225 lb ",
+     "team-code": "PHO",
+     "origin": "Croatia"
+    },
+    {
+     "id": 518,
+     "firstName": " Devin ",
+     "lastName": "Booker",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "210 lb ",
+     "team-code": "PHO",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 519,
+     "firstName": " Mikal",
+     "lastName": "Bridges",
+     "position": "G\/F",
+     "height": "6 ft 7 in ",
+     "weight": "210 lb ",
+     "team-code": "PHO",
+     "origin": "Villanova"
+    },
+    {
+     "id": 520,
+     "firstName": " Isaiah",
+     "lastName": "Canaan",
+     "position": "G",
+     "height": "6 ft 0 in ",
+     "weight": "200 lb ",
+     "team-code": "PHO",
+     "origin": "Murray State"
+    },
+    {
+     "id": 521,
+     "firstName": " Tyson",
+     "lastName": "Chandler",
+     "position": "C",
+     "height": "7 ft 1 in ",
+     "weight": "240 lb ",
+     "team-code": "PHO",
+     "origin": "Manuel Dominguez HS (CA)"
+    },
+    {
+     "id": 522,
+     "firstName": " Troy",
+     "lastName": "Daniels",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "205 lb ",
+     "team-code": "PHO",
+     "origin": "Virginia Commonwealth"
+    },
+    {
+     "id": 523,
+     "firstName": " Shaquille",
+     "lastName": "Harrison",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "190 lb ",
+     "team-code": "PHO",
+     "origin": "Tulsa"
+    },
+    {
+     "id": 524,
+     "firstName": " Richaun",
+     "lastName": "Holmes",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "235 lb ",
+     "team-code": "PHO",
+     "origin": "Bowling Green"
+    },
+    {
+     "id": 525,
+     "firstName": " Josh",
+     "lastName": "Jackson",
+     "position": "G\/F",
+     "height": "6 ft 8 in ",
+     "weight": "200 lb ",
+     "team-code": "PHO",
+     "origin": "Kansas"
+    },
+    {
+     "id": 526,
+     "firstName": " George ",
+     "lastName": "King",
+     "position": "F",
+     "height": "6 ft 6 in ",
+     "weight": "218 lb ",
+     "team-code": "PHO",
+     "origin": "Colorado"
+    },
+    {
+     "id": 527,
+     "firstName": " De'Anthony",
+     "lastName": "Melton",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "193 lb ",
+     "team-code": "PHO",
+     "origin": "Southern California"
+    },
+    {
+     "id": 528,
+     "firstName": " Elie",
+     "lastName": "Okobo",
+     "position": "G",
+     "height": "6 ft 2 in ",
+     "weight": "180 lb ",
+     "team-code": "PHO",
+     "origin": "France"
+    },
+    {
+     "id": 529,
+     "firstName": " Davon",
+     "lastName": "Reed",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "210 lb ",
+     "team-code": "PHO",
+     "origin": "Miami (FL)"
+    },
+    {
+     "id": 530,
+     "firstName": " T. J.",
+     "lastName": "Warren",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "215 lb ",
+     "team-code": "PHO",
+     "origin": "North Carolina State"
+    },
+    {
+     "id": 531,
+     "firstName": " Marvin",
+     "lastName": "Bagley III",
+     "position": "F",
+     "height": "6 ft 11 in",
+     "weight": "234 lb ",
+     "team-code": "SAC",
+     "origin": "Duke"
+    },
+    {
+     "id": 532,
+     "firstName": " Nemanja",
+     "lastName": "Bjelica",
+     "position": "F",
+     "height": "6 ft 10 in",
+     "weight": "234 lb ",
+     "team-code": "SAC",
+     "origin": "Serbia"
+    },
+    {
+     "id": 533,
+     "firstName": " Bogdan",
+     "lastName": "Bogdanovic",
+     "position": "G",
+     "height": "6 ft 6 in ",
+     "weight": "205 lb ",
+     "team-code": "SAC",
+     "origin": "Serbia"
+    },
+    {
+     "id": 534,
+     "firstName": " Willie",
+     "lastName": "Cauley-Stein",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "240 lb ",
+     "team-code": "SAC",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 535,
+     "firstName": " Deyonta",
+     "lastName": "Davis",
+     "position": "F\/C",
+     "height": "7 ft 0 in ",
+     "weight": "237 lb ",
+     "team-code": "SAC",
+     "origin": "Michigan State"
+    },
+    {
+     "id": 536,
+     "firstName": " Yogi",
+     "lastName": "Ferrell",
+     "position": "G",
+     "height": "6 ft 0 in ",
+     "weight": "180 lb ",
+     "team-code": "SAC",
+     "origin": "Indiana"
+    },
+    {
+     "id": 537,
+     "firstName": " De'Aaron",
+     "lastName": "Fox",
+     "position": "G",
+     "height": "6 ft 3 in ",
+     "weight": "175 lb ",
+     "team-code": "SAC",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 538,
+     "firstName": " Wenyen ",
+     "lastName": "Gabriel",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "205 lb ",
+     "team-code": "SAC",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 539,
+     "firstName": " Harry",
+     "lastName": "Giles",
+     "position": "F\/C",
+     "height": "6 ft 10 in",
+     "weight": "240 lb ",
+     "team-code": "SAC",
+     "origin": "Duke"
+    },
+    {
+     "id": 540,
+     "firstName": " Buddy",
+     "lastName": "Hield",
+     "position": "G",
+     "height": "6 ft 4 in ",
+     "weight": "214 lb ",
+     "team-code": "SAC",
+     "origin": "Oklahoma"
+    },
+    {
+     "id": 541,
+     "firstName": " Justin",
+     "lastName": "Jackson",
+     "position": "F",
+     "height": "6 ft 8 in ",
+     "weight": "210 lb ",
+     "team-code": "SAC",
+     "origin": "North Carolina"
+    },
+    {
+     "id": 542,
+     "firstName": " Kosta",
+     "lastName": "Koufos",
+     "position": "C",
+     "height": "7 ft 0 in ",
+     "weight": "265 lb ",
+     "team-code": "SAC",
+     "origin": "Ohio State"
+    },
+    {
+     "id": 543,
+     "firstName": " Skal",
+     "lastName": "Labissiere",
+     "position": "F\/C",
+     "height": "6 ft 11 in",
+     "weight": "225 lb ",
+     "team-code": "SAC",
+     "origin": "Kentucky"
+    },
+    {
+     "id": 544,
+     "firstName": " Frank",
+     "lastName": "Mason",
+     "position": "G",
+     "height": "5 ft 11 in",
+     "weight": "190 lb ",
+     "team-code": "SAC",
+     "origin": "Kansas"
+    },
+    {
+     "id": 545,
+     "firstName": " Ben",
+     "lastName": "McLemore",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "195 lb ",
+     "team-code": "SAC",
+     "origin": "Kansas"
+    },
+    {
+     "id": 546,
+     "firstName": " Zach",
+     "lastName": "Randolph",
+     "position": "F",
+     "height": "6 ft 9 in ",
+     "weight": "250 lb ",
+     "team-code": "SAC",
+     "origin": "Michigan State"
+    },
+    {
+     "id": 547,
+     "firstName": " Iman",
+     "lastName": "Shumpert",
+     "position": "G",
+     "height": "6 ft 5 in ",
+     "weight": "220 lb ",
+     "team-code": "SAC",
+     "origin": "Georgia Tech"
+    }
+   ]

@@ -3,10 +3,11 @@ Set of sample lists and data for populating interface design in Figma or Sketch.
 
 This repository is a gallery of real content ready to populate your mockups, built by designers who want to work more efficiently. 
 
-The sample data collections are organized in two formats, depending on how you want to populate your mockups:
+The sample data collections are organized in three formats, depending on how you want to populate your mockups:
 
 - TXT files (simple) - for entering a single entity with a line break separating each entity. `(e.g.: names)`
-- JSON files (advanced) - for boosting your productivity and entering the entire data set at once. `(e.g.: Names, Title, Company, Address)` 
+- CSV files (intermediate) - for opening in a spreadsheet app and copying the desired column. `(e.g.: Names, Title, Company, Address)` 
+- JSON files (advanced) - for boosting 🚀 your productivity and entering the entire data set 🔥at once🔥. `(e.g.: Names, Title, Company, Address)` 
 
 ## TXT file example
 
@@ -17,6 +18,19 @@ Boston Celtics
 Brooklyn Nets
 Charlotte Hornets
 Chicago Bulls
+...
+```
+
+## CSV file example
+
+Example: `teamsnba.csv`
+```html
+teamId,abbreviation,teamName,simpleName,location
+1,ATL,Atlanta Hawks,Hawks,Atlanta
+2,BOS,Boston Celtics,Celtics,Boston
+3,BKN,Brooklyn Nets,Nets,Brooklyn
+4,CHA,Charlotte Hornets,Hornets,Charlotte
+5,CHI,Chicago Bulls,Bulls,Chicago
 ...
 ```
 
