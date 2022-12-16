@@ -1,0 +1,277 @@
+[
+  {
+    "rank": 1,
+    "company": "DHL Express",
+    "location": "Bonn Bonn North Rhine–Westphalia Germany",
+    "industry": "Transportation",
+    "employees": "120,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/dhl-express",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/a/ac/DHL_Logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/a/ac/DHL_Logo.svg"
+
+  },
+  {
+    "rank": 2,
+    "company": "Hilton",
+    "location": "McLean Virginia United States",
+    "industry": "Hospitality",
+    "employees": "150,050",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/hilton",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Hilton_Worldwide_logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Hilton_Worldwide_logo.svg"
+
+  },
+  {
+    "rank": 3,
+    "company": "Cisco",
+    "location": "San Jose California United States",
+    "industry": "Information Technology",
+    "employees": "116,418",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/cisco",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg"
+
+  },
+  {
+    "rank": 4,
+    "company": "Salesforce",
+    "location": "San Francisco California United States",
+    "industry": "Information Technology",
+    "employees": "86,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/salesforce",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg"
+
+  },
+  {
+    "rank": 5,
+    "company": "Millicom",
+    "location": "Luxemborg Luxemborg",
+    "industry": "Telecommunications",
+    "employees": "21,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/millicom",
+    "logo-svg": "https://www.millicom.com/images/logo.png",
+    "logo-png": "https://www.millicom.com/images/logo.png"
+
+  },
+  {
+    "rank": 6,
+    "company": "AbbVie",
+    "location": "North Chicago Illinois United States",
+    "industry": "Biotechnology & Pharmaceuticals",
+    "employees": "50,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/abbvie",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/c/cc/AbbVie_logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/c/cc/AbbVie_logo.svg"
+
+  },
+  {
+    "rank": 7,
+    "company": "Deloitte",
+    "location": "London England United Kingdom",
+    "industry": "Professional Services",
+    "employees": "415,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/deloitte",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/5/56/Deloitte.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/5/56/Deloitte.svg"
+
+  },
+  {
+    "rank": 8,
+    "company": "Hilti",
+    "location": "Schaan Liechtenstein",
+    "industry": "Manufacturing & Production",
+    "employees": "32,092",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/hilti",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/8/84/Hilti_2.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/8/84/Hilti_2.svg"
+
+  },
+  {
+    "rank": 9,
+    "company": "SC Johnson",
+    "location": "Racine Wisconsin United States",
+    "industry": "Manufacturing & Production",
+    "employees": "12,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/sc-johnson",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/1/10/SC_Johnson_2018.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/1/10/SC_Johnson_2018.svg"
+
+  },
+  {
+    "rank": 10,
+    "company": "Stryker",
+    "location": "Kalamazoo Michigan United States",
+    "industry": "Manufacturing & Production",
+    "employees": "48,025",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/stryker",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/7/79/Stryker_logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/7/79/Stryker_logo.svg"
+
+  },
+  {
+    "rank": 11,
+    "company": "Teleperformance",
+    "location": "Paris Ile de France France",
+    "industry": "Professional Services",
+    "employees": "403,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/teleperformance",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Teleperformance_logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Teleperformance_logo.svg"
+
+  },
+  {
+    "rank": 12,
+    "company": "Medtronic",
+    "location": "Dublin Leinster Ireland",
+    "industry": "Biotechnology & Pharmaceuticals",
+    "employees": "90,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/medtronic",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Medtronic_logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Medtronic_logo.svg"
+
+  },
+  {
+    "rank": 13,
+    "company": "EY",
+    "location": "London England United Kingdom",
+    "industry": "Professional Services",
+    "employees": "365,399",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/ey",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/3/34/EY_logo_2019.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/3/34/EY_logo_2019.svg"
+
+  },
+  {
+    "rank": 14,
+    "company": "VRIO: DIRECTV & SKY",
+    "location": "Buenos Aires Buenos Aires Argentina",
+    "industry": "Telecommunications",
+    "employees": "7,300",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/vrio-corp",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vrio._-_2018_logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vrio._-_2018_logo.svg"
+
+  },
+  {
+    "rank": 15,
+    "company": "SAP SE",
+    "location": "Walldorf Baden-Württemberg Germany",
+    "industry": "Information Technology",
+    "employees": "112,106",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/sap-se",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg"
+
+  },
+  {
+    "rank": 16,
+    "company": "Scotiabank",
+    "location": "Toronto Ontario Canada",
+    "industry": "Financial Services & Insurance",
+    "employees": "89,500",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/scotiabank",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/2/22/Scotiabank_logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/2/22/Scotiabank_logo.svg"
+
+  },
+  {
+    "rank": 17,
+    "company": "Accenture",
+    "location": "New York New York United States",
+    "industry": "Professional Services",
+    "employees": "710,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/accenture",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg"
+
+  },
+  {
+    "rank": 18,
+    "company": "Nestle",
+    "location": "Vevey Vaud Switzerland",
+    "industry": "Manufacturing & Production",
+    "employees": "270,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/nestle",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg"
+
+  },
+  {
+    "rank": 19,
+    "company": "Cadence",
+    "location": "San Jose California United Staetes",
+    "industry": "Electronics",
+    "employees": "9,797",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/cadence",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/4/48/Cadence-Logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/4/48/Cadence-Logo.svg"
+
+  },
+  {
+    "rank": 20,
+    "company": "Mercado Libre",
+    "location": "Buenos Aires Buenos Aires Argentina",
+    "industry": "Information Technology",
+    "employees": "30,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/mercado-libre",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/en/2/20/MercadoLibre.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/en/2/20/MercadoLibre.svg"
+
+  },
+  {
+    "rank": 21,
+    "company": "FedEx",
+    "location": "Memphis Tennessee United States",
+    "industry": "Transportation",
+    "employees": "50,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/fedex",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/b/b9/FedEx_Corporation_-_2016_Logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/b/b9/FedEx_Corporation_-_2016_Logo.svg"
+
+  },
+  {
+    "rank": 22,
+    "company": "Concentrix",
+    "location": "Fremont California United States",
+    "industry": "Professional Services",
+    "employees": "290,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/concentrix",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/en/f/fc/Concentrix_logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/en/f/fc/Concentrix_logo.svg"
+
+  },
+  {
+    "rank": 23,
+    "company": "Sopra Steria",
+    "location": "Annecy France France",
+    "industry": "Information Technology",
+    "employees": "47,000",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/sopra-steria",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/en/6/62/Sopra_Steria_logo_2.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/en/6/62/Sopra_Steria_logo_2.svg"
+
+  },
+  {
+    "rank": 24,
+    "company": "Adobe",
+    "location": "San Jose California United States",
+    "industry": "Information Technology",
+    "employees": "28,167",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/adobe",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Adobe_Corporate_logo.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Adobe_Corporate_logo.svg"
+
+  },
+  {
+    "rank": 25,
+    "company": "Bristol-Myers Squibb",
+    "location": "New York New York United States",
+    "industry": "Biotechnology & Pharmaceuticals",
+    "employees": "32,200",
+    "about-link": "https://www.greatplacetowork.com/worlds-best-profile/bms",
+    "logo-svg": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bristol-Myers_Squibb_logo_%282020%29.svg",
+    "logo-png": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bristol-Myers_Squibb_logo_%282020%29.svg"
+
+  }
+]
